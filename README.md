@@ -1,16 +1,9 @@
-# Dungeon World
-Dungeon World is a tabletop roleplaying game. This text tells you how to play that game.
+# Dungeon World Translation & my Hacks
+This repository contains my  ongoing translation of Dungeon World into German. if you are just looking for the english text of the game you are better of [here](https://github.com/Sagelt/Dungeon-World). It can be downloaded in pdf|epub form [here](http://book.dwgazetteer.com/).
 
-You'll find the entire text of the game, broken up by chapter, here. The text is formatted in XML designed to be consumed by [InDesign](http://www.adobe.com/products/indesign.html). Forgive any odd formatting or bad style, that's usually a concession to InDesign.
+Dungeon World ist ein Tischrollenspiel. Die Dateien in diesem Repository ergeben den vollständigen Text. Da die Übersetzung gerade erst begonnen hat, ist nur ein kleiner Teil auf Deutsch vorhanden.
 
-The InDesign files are also available here. They're not guaranteed to work since the InDesign file format uses fully qualified paths. The layout files make use of proprietary fonts, so some fonts may not load. The art used in the printed version of the game is not included.
+Der text ist in mehrere Dateien unterteilt, die jeweils einem Kapitel entsprechen. Der englische Text war in XML für Adobe Indesign formatiert: Mein Format ist HTML(5).
 
-## License
-See the LICENSE file for the full details, but here's the basics: you're free to use this text any way you like so long as you credit the authors.
-
-What we hope you do with it is make new stuff: make classes, adventures, moves, even whole new games.
-
-## Contributing
-In case you're a roleplaying game geek who also wants to contribute directly, we're open to pull requests. Typo fixes and editing would be wonderful.
-
-If you start a pull request please also modify text/appendices/Thanks.xml and add your name to the Contributors section so we can thank you.
+## Lizenz
+Ich übernehme natürlich die Lizenz der englischen Version in vollem Umfang. Siehe LICENCE.md.
