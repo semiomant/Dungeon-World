@@ -221,29 +221,9 @@ Ihr bracht auch ein paar spezielle Würfel: viersetige, achtseitige, zehnseitige
 
 # Wie ist es Dungeon World zu spielen?
 
-Playing Dungeon World is all about finding out what happens when your
-characters encounter dangerous and exciting monsters, strange ruins, and
-unusual people on their quest for gold and glory. It’s a conversation between
-the players and the GM—the GM tells the players what they see and hear in the
-world around them and the players say what their characters are thinking,
-feeling, and doing. Sometimes those descriptions will trigger a move—something
-that’ll cause everyone to stop and say “time to roll the dice to see what
-happens.” For a moment everyone hangs on the edges of their seats as the dice
-clatter to a stop. Tension and excitement are always the result, no matter how
-the dice land.
+Bei Dungeon World geht es darum, heraus zu finden was passiert, wenn eure Charaktere gefährlichen und aufregenden Monstern, seltsamen Ruinen und ungewöhnlichen Leuten auf ihrer Suche nach Gold und Ruhm begegnen. Es ist eine Unterhaltung zwischen den den Spielern und dem SL - der Sl beschreibt den spielern was sie sehen und hören in der Welt und die Spieler sagen was ihre Charaktere denken, fühlen und und tun. Manchmal führen diese Ausführungen zu einem Zug - etwas, wobei alles angehalten wird und "es zeit ist zu Würfeln, um herauszufinden, was passiert". Für kurze Zeit sind alle gespannt wie ein Flitzebogen bis die Würfel zur Ruhe kommen. Spannung und Erregung sind immer das Resultat wie auch immer die
+Würfel fallen.
 
-Bei Dungeon World geht es darum, heraus zu finden was apssiert, wenn eure Charaktere gefährlichen und aufregenden Monstern, seltsamen Ruinen und ungeöhnlichn Leuten auf ihrer Suche nach Gold und Ruhm begegnen.
+Während ihr spielt, verändern sich eure Charaktere durch ihre Abenteuer, und gewinnen Erfahrung während sie die Welt kennen lernen, Monster besiegen und Reichtümer ansammeln. Ihr werdet herausfinden was sie übereinander denken und wo ihre moralischen Fixpunkte liegen. Wenn sich genung Erfarung angesammelt hat/zusammengekommen ist, werden sie Stufen erhalten, werden mächtiger und haben mehr Optionen zu erforschen.
 
-As you play your characters they’ll change from their adventures and gain
-experience while learning about the world, overcoming monsters, and gathering
-riches. You’ll discover how they feel about each other and where their moral
-compass points them. When they accrue enough experience they’ll gain levels,
-becoming more powerful and having more options to explore.
-
-You can play Dungeon World with the same group, session to session, over a
-long series of adventures, watching your characters change and grow together.
-You can play it as a self-contained game in a single-session, too. Whether a
-long campaign or a one-shot, Dungeon World’s rules are here to guide you and
-help you create a world of fantasy adventure. Time to get out there and
-explore it!
-
+Du kannt DW mit der selben Gruppe spielen, von Sitzung zu Sitzung, über eine lange Serie von Abenteurn hinweg, und sehen wie sich die Charaktere verändern und gemeinsam wachsen. Oder man kann es auch als abegeschlossenes Spiel in einer einzigen Sitzung spielen. Ob als lange Kampagne oder einmalig, die Regeln von DW sind da euch anzuleiten und dabei zu helfen, eine Welt der fantastischen Abenteuer zu erschaffen. Macht euch auf und erforscht sie!
