@@ -1,47 +1,45 @@
 # Spiel(ab/ver)lauf
 
-DungeonWorld spielen heißt eine Unterhaltung führen; jemand sagt etwas, dann antwortet man, vielleicht schaltet sich noch jemand anderes ein. Wir reden über die Fiktion - die Welt der Charaktere und die Dinge, die um sie herum passieren. Während wir spielen schalten sich die Regeln auch ein. Sie haben etwas über die Welt zu sagen. Es gibt keine Runden oder "dran sein" in Dungeon World, keine Regel legt fest, wer wann etwas sgaen darf. Statt dessen sagt jeder etwas entspechend dem natürlichen Ablauf der Unterhaltung, was immer eine gewisses hin-und-her einschliesst. Der Sl sagt etwas, die Spieler antworten. Die Spieler stellen Fragen oder machen Feststellungen/Aussagen, der Sl erzählt ihnen was als nächstes geschied. DW ist niemals ein Monolog; es ist immer eine Unterhaltung. 
+Dungeon World spielen heißt eine Unterhaltung führen; jemand sagt etwas, dann antwortet man, vielleicht schaltet sich noch jemand anderes ein. Wir reden über die Fiktion - die Welt der Charaktere und die Dinge, die um sie herum passieren. Während wir spielen schalten sich die Regeln auch ein. Sie haben etwas über die Welt zu sagen. Es gibt keine Runden oder "dran sein" in Dungeon World, keine Regel legt fest, wer wann etwas sgaen darf. Statt dessen sagt jeder etwas entsprechend dem natürlichen Ablauf der Unterhaltung, was immer eine gewisses hin-und-her einschliesst. Der Sl sagt etwas, die Spieler antworten. Die Spieler stellen Fragen oder machen Feststellungen/Aussagen, der Sl erzählt ihnen was als nächstes geschieht. DW ist niemals ein Monolog; es ist immer eine Unterhaltung. 
 
 Die Regeln helfen dabei, die Spielunterhaltung zu formen. Während sich der SL und die Spieler unterhalten, reden auch die Regeln und die Fiktion miteinander. Jede Regel hat einen bestimmen fiktionalen Auslöser/Anlass/Grund, der darüber Auskunft gibt, wann sie in die Unterhaltung eingreifen sollte.
 
-Wie bei jeder unterhaltung ist die Zeit, die man mit Zuhören verbringt genauso wichtig wie die Zeit, in der man spricht. Die von den anderen Mitspielern etablierten Details sind wichtig für dich: sie verändern möglicherweise, die Züge, die du machen kannst, eröffnen dir neue Möglichkeiten, oder erschaffen eine Herausforderung, die du durchstehen musst. Die Unterhaltung funktioniert am besten wenn wir alle zuhören, Fragen stellen, und auf den Beiträgen der anderen aufbauen. 
+Wie bei jeder Unterhaltung ist die Zeit, die man mit Zuhören verbringt genauso wichtig wie die Zeit, in der man spricht. Die von den anderen Mitspielern etablierten Details sind wichtig für dich: sie verändern möglicherweise, die Züge, die du machen kannst, eröffnen dir neue Möglichkeiten, oder erschaffen eine Herausforderung, die du durchstehen musst. Die Unterhaltung funktioniert am besten wenn wir alle zuhören, Fragen stellen, und auf den Beiträgen der anderen aufbauen. 
 
 Dieses Kapitel handelt davon, wie man Dungeon World spielt. Hier findest du Informationen über die Regeln - wie sie "aus dem Spiel entstehen" und dazu beitragen. Sowohl allgemeine Regeln, wie etwa einen Zug machen, und speziellere, wie etwa Schaden verursachen und Trefferpunkte werden behandelt.
 
 ### Attributwerte und Modifikatoren
 
-Viele der in diesem Kaptiel diskutierten Regeln basieren auf Attributen eines Spielercharakters und deren Modifikatoren. Die Attribute sind Stärke, Konstitution, Geschicklichkeit, Intelligenz, Weisheit und Charisma. Sie sind ein maß für die rohe Befähigung einer Spielercharakters auf dem jeweilgen Gebiet auf einer Skala von 3 bis 18, wobei 18 der höchste Wert ist den gewöhnliche Sterbliche erreichen können.
+Viele der in diesem Kapitel diskutierten Regeln basieren auf Attributen eines Spielercharakters und deren Modifikatoren. Die Attribute sind Stärke, Konstitution, Geschicklichkeit, Intelligenz, Weisheit und Charisma. Sie sind ein maß für die rohe Befähigung einer Spielercharakters auf dem jeweiligen Gebiet auf einer Skala von 3 bis 18, wobei 18 der höchste Wert ist den gewöhnliche Sterbliche erreichen können.
 
-Jedes Atrribut hat einen zugehörigen Modifikator, der bei Würfen mit dem Attribut verwendet wird. Die Attribute derden mit drei Buchstaben abgekürzt: Stk, Kon, Ges, Int, Wei, Cha. Die Modifikatoren haben einen Wertbereich von -3 bis +3. Der Modifikator leitet sich vom Atrributswert ab.
+Jedes Attribut hat einen zugehörigen Modifikator, der bei Würfen mit dem Attribut verwendet wird. Die Attribute werden mit drei Buchstaben abgekürzt: Stk, Kon, Ges, Int, Wei, Cha. Die Modifikatoren haben einen Wertbereich von -3 bis +3. Der Modifikator leitet sich vom Atrributswert ab.
 
 ## Züge machen
 
 Die Grundeinheit der Regeln in DW ist ein Zug. Eine Zug hat folgende Form:
 
-Wenn du **einen Gegner im Nahkampf angreifst**, wirf+Stk. * Bei 10+, fügst du Schaden zu und weichst dem Gegeangriff aus. Wenn dü möchtest, kannst du dich einem Gegenangriff aussetzen, aber +1d6 Schaden verusachen. *Bei 7-9 fügst zu Schaden zu und der Gegener macht einen Angriff gegen dich.
+Wenn du **einen Gegner im Nahkampf angreifst**, wirf+Stk. * Bei 10+, fügst du Schaden zu und weichst dem Gegenangriff aus. Wenn dü möchtest, kannst du dich einem Gegenangriff aussetzen, aber +1d6 Schaden verursachen. *Bei 7-9 fügst zu Schaden zu und der Gegner macht einen Angriff gegen dich.
 
-Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegener im Nahkampf angreifen" der Auslöser/Anstoß. Der Effekt sit wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effkte basierd auf den Ergebnis des Wurfes.
+Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen Effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegner im Nahkampf angreifen" der Auslöser/Anstoß. Der Effekt sit wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effekte basierend auf den Ergebnis des Wurfes.
 
-Wenn ein Spieler beschreibt, wie sein Charakter etwas macht, was einen Zug auslöst, kommt der zug ins Spiel und seine Regeln werden angewendet. Wenn der Zug einen Wurf erfordert, sagt seine Beschreibung, was wür Würfel zu werfen sind und wie man das ergebnis liest.
+Wenn ein Spieler beschreibt, wie sein Charakter etwas macht, was einen Zug auslöst, kommt der Zug ins Spiel und seine Regeln werden angewendet. Wenn der Zug einen Wurf erfordert, sagt seine Beschreibung, was für Würfel zu werfen sind und wie man das Ergebnis liest.
 
-Ein Charakter kann nicht die fiktionale Handlung durchführen, die einen Zug auszulöst, ohne dass der Zug stattfindet. Wenn zum Beispiel Isaac dem Spielleiter sagt, dass sein Charakter an einen durchgedrehten, axtschwingdenden Ork vorbei zur offenen Tür stürzt/schlüpft/flitzt, so macht er den der Gefahr trotzen Zug, da dessen Auslöser ist "wenn man trotz einer unmitelbaren Gefahr handelt". Issac kann nicht einfach beschreiben wie sein Charakter am Ork vorbeiläuft ohne den derGefahr trotzen Zug zu machen und der kann den der Gafahr trotzen Zug nicht machen wenn er nicht trotz einer unmittelbaren Gefahr oder eines drohenden Unglücks etwas unternimmt. Züge und die Fiktion gegen Hand in Hand.
+Ein Charakter kann nicht die fiktionale Handlung durchführen, die einen Zug auslöst, ohne dass der Zug stattfindet. Wenn zum Beispiel Isaac dem Spielleiter sagt, dass sein Charakter an einen durchgedrehten, äxteschwingenden Ork vorbei zur offenen Tür stürzt/schlüpft/flitzt, so macht er den der Gefahr trotzen Zug, da dessen Auslöser ist "wenn man trotz einer unmittelbaren Gefahr handelt". Issac kann nicht einfach beschreiben wie sein Charakter am Ork vorbeiläuft ohne den derGefahr trotzen Zug zu machen und der kann den der Gefahr trotzen Zug nicht machen wenn er nicht trotz einer unmittelbaren Gefahr oder eines drohenden Unglücks etwas unternimmt. Züge und die Fiktion gegen Hand in Hand.
 
 Jeder am Tisch sollte darauf achten ob gerade ein Zug anzuwenden ist. Sollt es je unklar sein, ob ein Zug ausgelöst wurde, sollten alle zusammenarbeiten um klar zu stellen, was passiert. Stellt Fragen bis jeder die Situation auf die gleich Art und Weise sieht und macht dann einen Wurf, oder auch nicht, je nach dem was die Situation erfordert.
 
-Die vom SL gegührten Monster, Nichtspielercharaktere und andere ausgewählte Bestien haben auch Züge, diese funktionieren aber anders.
+Die vom SL geführten Monster, Nichtspielercharaktere und andere ausgewählte Bestien haben auch Züge, diese funktionieren aber anders.
 
 ### Züge und Würfel
 
-Die meisten Züge beinhalten die Formel "wirf+x", wobei x einer der Attributmodifikatoren des Charakters ist (Kon zum Besipiel). Wenn der Zug nicht etwas anderes fordert, bedeutet "wirf" einen Wurf von zwei sechseitigen Würfeln und die Addition ihrer Augenzahl zum Wert des Modifikators. Bei manchen Würfen wird eine anderer Wert als ein Attributsmodifikator zum Wurf hunzugezählt.
+Die meisten Züge beinhalten die Formel "wirf+x", wobei x einer der Attributmodifikatoren des Charakters ist (Kon zum Besipiel). Wenn der Zug nicht etwas anderes fordert, bedeutet "wirf" einen Wurf von zwei sechsseitigen Würfeln und die Addition ihrer Augenzahl zum Wert des Modifikators. Bei manchen Würfen wird eine anderer Wert als ein Attributsmodifikator zum Wurf hinzugezählt.
 
-Ich mache einen Zug der mich auffordert wirf+Stk und mein Stärke modifikator ist +1. Ich würfle zwei sechseitige Würfel und erhalte eine zwei und eine füff. Mein Ergebnis ist acht.
+Ich mache einen Zug der mich auffordert wirf+Stk und mein Stärke Modifikator ist +1. Ich würfle zwei sechsseitige Würfel und erhalte eine zwei und eine fünf. Mein Ergebnis ist acht.
 
-Die Resultat fallen in deri Kategorien: Eine Summe von 10 oder höher (10+ geschrieben) ist das beste Ergebnis. Beträgt die summe 7-9, so wurde immer noch ein Erfolg erzielt, aber dieser Erfordert kompromisse oder kostet etwas. 6 oder weniger bedeutet Ärger, aber man darf auch EP markieren.
+Die Resultat fallen in deri Kategorien: Eine Summe von 10 oder höher (10+ geschrieben) ist das beste Ergebnis. Beträgt die summe 7-9, so wurde immer noch ein Erfolg erzielt, aber dieser Erfordert Kompromisse oder kostet etwas. 6 oder weniger bedeutet Ärger, aber man darf auch EP markieren.
 
-Each move will tell you what happens on a 10+ and a 7–9. Most moves won’t say
-what happens on a 6-, that’s up to the GM but you also always mark XP.
 
-Jeder Zug legt fest, was bei 10+ und 7-9 passiert. Die meisten Züge bestimmen nicht was bei 6- passiert, das liegt beim SL aber du darft immer EP markieren.
+Jeder Zug legt fest, was bei 10+ und 7-9 passiert. Die meisten Züge bestimmen nicht was bei 6- passiert, das liegt beim SL aber du darfst immer EP markieren.
 
 Schadenswürfe funktionieren anders. Sie nutzen möglicherweise sogar auch andere Würfeltypen, je nach dem wer oder was Schaden verursacht.
 
@@ -49,18 +47,9 @@ Schadenswürfe funktionieren anders. Sie nutzen möglicherweise sogar auch ander
 
 Die wichtigste Rolle der Ausrüstung eines Charakters is Hilfe bei der der Beschreibung der Züge die diese machen. Ein Charakter irgendeine Waffe kann den Zug Hauen und Stechen in einem Kampf gegen einen Drachen nicht auslösen, da ein Schlag mit der bloßen Faust wohl kaum etwas gegen die zentimeterdicken Schuppen ausricheten kann. Es würde nicht als Auslöser für den Zug zählen.
 
-Genauso kann Ausrüstung einen Zug verhindern. Steile, vereiste Klippen zu erklettern is normaler weise der Gefahr trotzen, aber mit mit einem guten Satz Ketterausrüstung könnte man  die unmittelbare Gefahr und das drohende Unglück vermeiden, das den Zug auslösten würde.
+Genauso kann Ausrüstung einen Zug verhindern. Steile, vereiste Klippen zu erklettern is normaler weise der Gefahr trotzen, aber mit mit einem guten Satz Kletterausrüstung könnte man  die unmittelbare Gefahr und das drohende Unglück vermeiden, das den Zug auslösten würde.
 
-Waffen könne am wahrschenlichsten MOdifiziren, welche Züge ausgelöst werden können. Ein Charakter mit einem Dolch kann ganz einfach nach den dem Goblin stechen, der an seinem Bein nagt, Hauen und Stechen auslösend, aber der Charakter mit der Helebarde hat viel grössere Schwierigkeiten diese gegen einen so nahen Gegner einzusetzen.
-
-Items and gear of every sort have tags. Tags are terms to describe things.
-Some tags have a specific effect on the rules (things like damage reduction on
-armor or a magical bonus to a particular kind of move or stat). Other tags are
-purely about the fiction (like the close tag, which describes the length of a
-weapon and how near your enemies need to be for you to attack them). Tags help
-you describe your character’s actions when the items are being used and they
-give the GM information about how the items you’re using might go wrong or
-cause complications when you fail a roll.
+Waffen können am wahrscheinlichsten modifizieren, welche Züge ausgelöst werden können. Ein Charakter mit einem Dolch kann ganz einfach nach den dem Goblin stechen, der an seinem Bein nagt, Hauen und Stechen auslösend, aber der Charakter mit der Hellebarde hat viel grössere Schwierigkeiten diese gegen einen so nahen Gegner einzusetzen.
 
 Objekte und Zeugs aller Art hat Etiketten. Etiketten sind Worte, um Dinge zu beschreiben. Manche Etiketten haben einen spezifischen Effekt auf die Regeln (wie etwa Schadensverminderung durch Rüstung or ein magischer Bonus auf eine bestimmte Art von Zug oder Wert). Andere Etiketten beeinflussen nur die Fiktion (so etwa das Etikett nah, welches die Länge einer Waffe beschreibt und wie nah man einem Feind kommen muss, um ihn angreifen zu können). Etiketten helfen die Handlungen der Charaktere zu beschreiben, wenn Gegenstände benutzt werden und sie geben dem SL Hinweise wie die Objekte die man benutzt schief gehen können oder Komplikationen verursachen können wenn man einen Wurf verfehlt.
 
@@ -68,43 +57,21 @@ Objekte und Zeugs aller Art hat Etiketten. Etiketten sind Worte, um Dinge zu bes
 
 Die Auswirkungen von Zügen betreffen immer die fiktionale Welt, die die Charaktere bewohnen. 10+ bei Hauen und Stechen ziehen nicht bloss irgendwelche mechaniscehn Effekte in Speilsystem nach sich, sodern bdeutet auch, das du etwas erfolgreich angegriffen hast und ihm in irgendeiner Form Schaden zugefügt hast.
 
-Sobald du ausgeknobelt hast was die Auswirkungen eine zuges sind, wende sie auf die Fiktion an und wend dich dich wieder der Unterhaltung zu. Komme immer wieder auf das, was im Spiel passiert zurück.
+Sobald du ausgeknobelt/bestimmt hast was die Auswirkungen eines Zuges sind, wende sie auf die Fiktion an und wende dich dich wieder der Unterhaltung zu. Komme immer wieder auf das, was im Spiel passiert zurück.
 
-Some moves have immediate mechanical effects, like dealing damage or giving
-someone a bonus to their next roll. These effects are always a reflection of
-the fictional world the characters are in; make sure to use the fiction when
-describing the effects of the move.
+Manche Züge haben sofortige mechanische Effekte, wie Schaden verursachen oder jemanden einen Bonus auf den nächsten Wurf zu geben. Diese Auswirkungen sind immer eine wiedergabe der fiktionelen Welt, in der die Charaktere sind; gehe sicher dass die Fiktion zur Beschreibung der auswirkungen von Zügen benutzt wird.
 
 #### Manche Züge…
 
-…Use the phrase “deal damage.” Dealing damage means you roll the damage dice
-for your class; sometimes your weapon will add or subtract damage too. You use
-your damage dice any time you make an attack that could reasonably hurt your
-target. Usually that means you’re wielding a weapon, but your fists can be
-weapons with the right training or an interesting situation
+…benutzen die Formel "Schaden verursachen". Schaden verursachen heisst, dass du die Schadenswürfel deiner Klasse würfelst, manchmal addiert oder subtrahiert deine Waffen zusätzlich Schaden. Man benutzt Schadenswürfel bei jedem Angriff der vernünfigerweise den Gegner verletzen könnte. das heißt normalerweise, das du eine Waffe führst, aber auch deine Fäuste können mit dem richtigen Training oder in den richtigen Umständen Waffen sein.
 
-…Say “take +1 forward.” That means to take +1 to your next move roll (not
-damage). The bonus can be greater than +1, or even a penalty, like -1. There
-also might be a condition, such as “take +1 forward to hack and slash,” in
-which case the bonus applies only to the next time you roll hack and slash,
-not any other move.
+…sagen "erhalte +1 fürder/voraus". Das heißt, dass du +1 auf deinen nächsten Wurf für einen Zug (nit für Schaden) erhälst. Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. Es könnte auch Bedingungen geben, so wie "erhalte +1 voraus für Hauen und Stechen". In diesem Fall darfst du den Bonus nur auf den nächsten Wurf auf "Hauen und Stechen" anwenden, und bei keinen anderen Zug.
 
-…Say “take +1 ongoing.” That means to take +1 to all move rolls (not damage).
-The bonus can be larger than +1, or it can be a penalty, like -1. There also
-might be a condition, such as “take +1 ongoing to volley.” An ongoing bonus
-also says what causes it to end, like “until you dismiss the spell” or “until
-you atone to your deity.”
+…sagen "nimm/erhalte +1 fortlaufend". das heißt, dass du +1 auf alle Würfe, die du für Züge machst, erhälst (nicht bei Schaden). Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. es könnte auch eine Bedingung geben, so wie "erhalte +1 fortlaufend auf Volley". Ein fortlaufender Bonus legt auch fest, was dazu führt, dass er endet, wie etwa "bis zu den Spruch beendest" oder "bis du in den Augen deines Gottes Buße getan hast."
 
-…Give you “hold.” Hold is currency that allows you to make some choices later
-on by spending the hold as the move describes. Hold is always saved up for the
-move that generated it; you can’t spend your hold from defend on trap expert
-or vice versa, for example.
+…geben dir "Handhabe". Handhabe ist eine Währung die erlaubt, zu einem späteren Zeitpunkt Enstscheidungnen zu machen indem du deine Handhabe ausgibst. Die Handhabe ist an den Zug gebunden, der sie dir gegeben hat, du kannst zum Beispiel weder deine Handhabe von Verteidigen für Fallenexperte ausgeben, noch andersherum.
 
-…Present a choice. The choice you make, like all move effects, dictates things
-that happen in the fiction in addition to any more mechanical effects. The
-choice you make on the 10+ result of hack and slash to deal more damage at the
-cost of opening yourself up is exactly what’s happening to your character:
-they have enough advantage that they can stay safe or push their luck.
+…stellen dich vor die Wahl. Die Wahl, die du triffst, schreibt wie alle Zugauswirkungen die Dinge vor, die in der Fiktion zusätzlich zu den mechanischen Effekten passieren. Wenn du die Entscheidung triffst, auf 10+ bei Hauen und Stechen mehr Schaden zu verursachen auf Kosten eines möglichen Gegenangriffs, so ist es genau das was deinem Charakter passiert: er hat einen Vorteil errungen, den er nutzen kann um auf der sicheren Seite zu sein oder sein Glück herauszufordern.
 
 …Give you a chance to say something about your character and their history.
 When you spout lore you may get asked how you know the information that the GM
@@ -112,35 +79,29 @@ reveals. Take that opportunity to contribute to the game and show who your
 character really is. Just keep in mind the established facts and don’t
 contradict anything that’s already been described.
 
-…Say “mark XP.” That means you add one to your current XP total.
+…geben dir eine Möglichkeit etwas über deinen Charakter und ihre Geschichte zu sagen. Wenn du *Weisheiten kundtust* kann es passieren, dass du gefragt wirst woher du dass Wissen hast, das der SL offenbart. Nimmm diese Gelegenheit wahr zum Spiel beizutragen und zu zeigen wer dein Charakter wirklich ist. Beachte bloss die schon etablierten Fakten, und widerspreche nicht einem Sachverhalt, der schon beschrieben wurde.
 
-## Harm and Healing
+…sagen "markiere EP". Das heißt, dass du eins zu der Summe deiner Ep hinzuzählst.
 
-Cuts, bruises, and mortal wounds are common dangers for adventurers to face in
-Dungeon World. In the course of play, characters will take damage, heal, and
-maybe even die. A character’s health is measured by their hit points (HP).
-Damage subtracts from HP. In the right conditions, or with medical or magical
-help, damage is healed and HP is restored.
+## Verletzungen und Heilung
 
-### HP
+Schnitte, Prellungen und tötliche Wunden sind die üblichen Gefahren, denen sich abenteurer in DW stellen müssen. Im Laufe des Spiels müssen die Charaktere Schaden einstecken, heilen, oder können auch sterben. Die Gesundheit eines Charakters wird mit seinen Treffenpunkten (TP) gemessen. Schaden wird von den TP abgezogen. Unter den richtigen Bedingungen, oder durch medizinische order magische Hilfe, wird Schaden geheilt und die TP wiederhergestellt.  
 
-A character’s HP is a measure of their stamina, endurance, and health. More HP
-means the character can fight longer and endure more trauma before facing
-Death’s cold stare.
+### TP
 
-Your class tells your maximum HP. Your Constitution (the ability, not the
-modifier) comes into play as well, so more Constitution means more HP. If your
-Constitution permanently changes during play you adjust your HP to reflect
-your new Constitution score. Unless your Constitution changes your maximum HP
-stays the same.
+Die TP eines Charakters sind ein Maß seines Stehvermögens, Ausdauer und Gesundheit. Mehr TP bedeuten, dass ein Charakter länger kämpfen kann und mehr Verletzungen ertragen kann bevor er sich seiner Sterblichkeit stellen muss.
 
-### Damage
+Deine Klasse verrät dir deine maximalen TP. Deine Konstitution (das Attribut, nicht der Modifikator) kommt auch ins Spiel, eine höhere Konstitution bedeutet mehr TP. Wenn sich deine Konstitution während des Spiels dauerhaft verändert, passt du auch deine TP an den veränderten Konstitutionswert an. Wenn sich deine Konstitution nicht verändert bleiben auch deine TP gleich.
+
+### Schaden
 
 When a character takes damage they subtract the damage dealt from their
 current HP. Armor mitigates damage; if a character has armor they subtract its
 value from the damage dealt. This might mean a blow is turned away
 completely—that’s fine, it’s what armor is for! Damage can never take a
 character below 0 HP.
+
+
 
 Damage is determined by the attacker. Player characters deal damage according
 to their class, the weapon used, and the move they’ve made.
