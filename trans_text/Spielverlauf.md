@@ -95,146 +95,75 @@ Deine Klasse verrät dir deine maximalen TP. Deine Konstitution (das Attribut, n
 
 ### Schaden
 
-When a character takes damage they subtract the damage dealt from their
-current HP. Armor mitigates damage; if a character has armor they subtract its
-value from the damage dealt. This might mean a blow is turned away
-completely—that’s fine, it’s what armor is for! Damage can never take a
-character below 0 HP.
+Wenn ein Carakter Schaden einstecken muss, zieht der den erhalten Schaden den akuellen TP ab. Rüstung reduziert Schaden; wenn ein Charakter eine Rüstung hat zieht man ihren Wert vom Schaden ab. Das kann heißen, das ein Schlag komplett abgelenkt wird - das ist in Ordnung so, dafür ist Rüstung schliesslich da! Schaden kann einen Charakter nie unter 0 TP bringen.
+
+Der Schaden wird vom Angreifer ermittelt. Spieler verursachen Schden abhängig von ihrer Klasse, der verwendeten Waffe und dem Zug, den sie gemacht haben.
+
+Wenn ein Zug bloß "Schden verursachen" anführt so würfelt der Charakter den Schadenswürfel seiner Klasse plus alle Boni oder Abzüge von Zügen, Waffen oder Effekten. Falls ein Zug eine  Menge an Schaden festlegt, benutze diesen anstatt des Schadenswurfes der Klasse.
+
+Monster würfeln mit dem Schadenswert der in ihrer Beschreibung aufgeführt wird. Verwend diesen Schaden immer wenn das Monster etwas macht, was direkt zu Schaden bei jemandem führt, selbst wenn es dabei eine andere Methode als seinen normalen Angriff einsetzt.
+
+Andere Ursachen von Schaden - wie etwa von einem herabfallenden Trümmerstück eines einstürzenden Tirms getroffen zu werden oder in eine Fallgrube stürzen - sind dem Spielleiter basierd auf folgeden Prinzipien überlassen:
+
+* wenn es schlimmstensfalls Kratzer und Prellungen drohen: d4 Schaden
+* wenn es bluten könnte, aber nicht schrekliches passiert: d6 Schaden
+* Wenn Knochen brechen könnten: d8 Schaden
+* wenn eine normale Person daran sterben könnte: d10 Schaden
+
+Füge das Eikett _ignoroert RÜstung_ hinzu wenn die Schadensquelle besonders gross ist oder der Schaden von Gift oder Magie herrührt.
+
+Zeitweise oder von besonderen Umständen verliehener Schutz wirk wie Rüstung die man trägt: 1 Punkt Rüstung für teilweise Deckung, 2 für bedeutende Deckung.
+
+Schaden wird aufgrund der Fiktion ausgeteilt. Züge die Schaden verursachen wie etws Hauen und Stechen sund Spezialfälle dieser Regelung: der Zug legt fest, dass Schaden in Fiktion verursacht wird. Schaden kann zugewiesen werden ohne das ein Zug gemacht wird, falls sich das aus der Fiktion ergibt.
+
+Verlust von Trefferpunkten ist oft nur ein Teil der Auswirkungen. Wenn die Verletzungen sehr  allgemeiner Natur sind, wie der Sturz in eine Grube, ist wahrscheinlich der Verlust von TP alles. Wenn die Verletzung jedoch spezifisch ist, wie wenn ein Ork dir den Arm auskugelt, sollten Tp Teil der Effekte sein, aber nicht alles. Das grössere Problem ist dem dem ausgekugelten Arm umzugehen: wie schwingt man nun ein Schwert oder führt einen Zauber aus? Und wenn einem der kopf abgeschlagen wird ist das kein Verlust von Tp, man ist einfach tot. 
+
+#### Schaden durch mehrere Kreaturen
+
+Nur die mutigsten Monster kämpfen allein. Die meisten Kreaturen kämpfen mit jemandem an ihrer Seite, und vieleicht noch jemand zur Rückendekung und möglicherweise noch ein Bögenschütze, um den Rückzug zu decken und so weiter. Das kann dazu gühren, das mehrere Monster auf einaml Schden austeilen.
+
+Wenn mehr als eine Kreatur auf einmal angreift, wirf die Schadenswürfel für jede der Kreaturen und nimm das höchste Resultat. Falls einige der Kreaturen verscheidene viel Schaden verursachen können, nimm den Schaden mit dem höchsten Potential von allen in den Angriff verwickelten Kreaturen und nimm das höchste Resultat.
+
+_BSP: Ein Goblin Orkaster (d10+1 Schaden, ignorert Rüstung) und drei goblins (d6 Schaden) schleudern alle ihre jeweiliegn Waffen - eine Kugel magischer Säure für den Orkaster, Speere für den Rest - auf Lux, die ihre Barrikade angreift. Ich würfle den den höchsten Schaden, d10+1 ignorert Rüstung, viermal: einemal für den orkaster und je einmal für die anderen Goblins. Ich nehme das höchste Resultat, eine 8, und sage Lux, daß sie 9 Schaden, der ihre Rüstung ignoriert, nimmt als die Säure durch die Risse/Spalten, die die Speere hinterlassen haben dringt._
+
+#### Betäubungsschaden
+
+Betäubungsschaden ist nicht-tötlicher Schaden. ein SC, der Betäubungsschden nimmt trotz der Gefahr um überhapt etwas zu tun, wobei die Gefahr ist "du bist betäubt/benommen". das dauert an, solange es in der Fiktion Sinn ergibt  - du bist benommen bis du die chance hast einen klaren kopf zu bekommen oder zu beseitigen, was dich betäubt. Ein SL Charakter der betäubungschaden nimmt, zieht diesen nicht von seinen TP ab, wird sich aber entsprechend verhalten, herumtaumeln, blindlings herumfummeln usw.
 
 
+#### Zusätzlicher und Verminderter Schaden
 
-Damage is determined by the attacker. Player characters deal damage according
-to their class, the weapon used, and the move they’ve made.
+Wenn ein zug dir sagt, dass du zusätzlichen Schaden hinzufügen sollst, addiere diesen Schaden zu dem, den du mit den Schadenwürfeln ermittelt hast. Falls er sagt, Würfel hinzuzufügen (etwa "+1d4 Schaden"), würfelst dü den zusätzlicehn Würfel und zählt das Ergebnis zum Resutat hinzu. 
 
-If a move just says “deal damage” the character rolls their class’s damage
-dice plus any bonuses or penalties from moves, weapons, or effects. If a move
-specifies an amount of damage, use that in place of the class’s damage roll.
+Das gleiche gilt bei vermindertem Schaden: du ziehst die Zahl vom erwürfelten Ergebnis ab. Wenn du einen Würfel abzihen sollst (etwa "-1w6 Schaden") ziehst du das Resulat dieses Würfels von der ursprünglichen Summe ab. SChaden hat niemals einen negativen Wert - 0 Schaden is das Minimum.
 
-Monsters roll damage as listed in their description. Use this damage any time
-the monster takes direct action to hurt someone, even if they use a method
-other than their normal attack.
+#### Das Beste und Schlechteste
 
-Other sources of damage—like being struck by a chunk of a collapsing tower, or
-falling into a pit—are left to the GM based on these options:
+Bei einigen Monstern und Zügen wird mehrmals Schaden ausgewürfelt und entweder das beste oder das schlechteste Ergebnis genommen. Wenn ein Monster seinen w6 Schaden zweimal ermittelt und das beste Resultat nimmt, so wird das b[2w6] geschrieben. Ebenso bedeutet s[3w10] "würfle dreimal mit w10 und wende das schlechteste Resultat an".
 
-  * It threatens bruises and scrapes at worst: d4 damage
-  * It’s likely to spill some blood, but nothing horrendous: d6 damage
-  * It might break some bones: d8 damage
-  * It could kill a common person: d10 damage
+### Heilung
 
-Add the _ignores armor_ tag if the source of the damage is particularly large
-or if the damage comes from magic or poison.
+Es gibt zwei Quellen der Heilung in DW: medizinischer Beistand und das Vergehen der Zeit.
 
-Temporary or circumstantial armor works the same way as armor that you wear: 1
-armor for partial cover, 2 armor for major cover.
+Medizinischer Besitand, ob magisch oder weltlich/profan/normal, heilt Schaden je nach angewendetem Zug oder Gegenstand. Manche Züge vermögen die TP wieder aufzufüllen, während andere gerade genung heilen, um jemanden während eines Kampfes auf den Beinen zu halten. 
 
-Damage is dealt based on the fiction. Moves that deal damage, like hack and
-slash, are just a special case of this: the move establishes that damage is
-being dealt in the fiction. Damage can be assigned even when no move is made,
-if it follows from the fiction.
+Wenn ein Charakter einige Zeit mit Rasten/erholung/ruhe verbringt, ohne etwas zu tun, was ihre Wunden verschlimmert, so heilen sie. Der Betrag der Heilung ist in den entsprechenden Zügen vermerkt: Lagern für eine Nacht in einer gefährlichen Gegend, Erholen für Aufenthalte in der Zivilisation.
 
-HP loss is often only part of the effect. If the harm is generalized, like
-falling into a pit, losing the HP is probably all there is to it. When the
-harm is specific, like an orc pulling your arm from its socket, HP should be
-part of the effect but not the entirety of it. The bigger issue is dealing
-with the newly busted arm: how do you swing a sword or cast a spell? Likewise
-having your head chopped off is not HP damage, it’s just you being dead.
+Unabhängig von der Ursache der Heilung können die sich die TP eines Charakters nicht über ihr Maximum hinaus erhöhen.
 
-#### Damage From Multiple Creatures
+### Tod
 
-It’s a brave monster that goes into battle alone. Most creatures fight with
-someone at their side, and maybe another at their back, and possibly an archer
-covering the rear, and so on. This can lead to multiple monsters dealing their
-damage at once.
+Der Tod lauert am Rande jeder Schlacht. Ein Charakter, der auf 0 TP reduziert worden ist tut sofort seinen letzten Atemzug. Der Tod holt den Gemeinen wie den König gleichermaßen - kein Attribut wird auf den wurf für den letzten Atemzug angwendet. 
 
-If multiple creatures attack at once roll the damage die for each of them and
-take the highest result. If some of the creatures deal a different amount of
-damage roll the damage with the highest potential for each creature involved
-in the attack and take the highest result.
+Niemand weiß, was jenseits der Schwarzen Tore des Todes liegt, aber man sagt das viele Geheimnisse der sterblichen Welt im Reich des Todes offenbart werden. Wenn du stirbtst, kannst du sie vielleicht erfahren.
 
-A goblin orkaster (d10+1 damage ignores armor) and three goblins (d6 damage)
-all throw their respective weapons—a magical acid orb for the orkaster, spears
-for the rest—at Lux as she assaults their barricade. I roll the highest
-damage, d10+1 ignores armor, four times: once for the orkaster, and once for
-each of the other goblins. I take the highest result, a roll of 8, and tell
-Lux she takes 9 damage ignoring armor as the acid leaks into the scratches
-left by the spears.
+Der Tod bietet manchen ein Handel an, manche einfach andere teuer. der Tod ist lauenhaft und mag einen zukünftigen Gefallen oder einen Tribut fordern. Er mag ein Opfer verlangen, oder um etwas Seltames oder scheinbar Harmloses bitten. Niemand kann voraussagen, was dem TOd in den Sinn kommen wird.  
 
-#### Stun Damage
+Abhänig von Ausgang des letzen Atemzugs mag sich der Charakter stabilisieren. Ein stabiler Charakter bleibt bei 0 TP, ist aber am Leben und ohne Bewußtsein. Wenn sie geheilt werden, erlangen sie das Bewusstsein zurück und kann sich wieder in den Kampf stürzen oder in Sicherheit bringen. Wenn ein stabiler Charakter erneut Schaden erhält, so muss von neuem seinen letzten Atemzug nehmen und sich wieder dem Tod stellen.  
 
-Stun damage is non-lethal damage. A PC who takes stun damage is defying danger
-to do anything at all, the danger being “you’re stunned.” This lasts as long
-as makes sense in the fiction—you’re stunned until you can get a chance to
-clear your head or fix whatever stunned you. A GM character that takes stun
-damage doesn’t count it against their HP but will act accordingly, staggering
-around for a few seconds, fumbling blindly, etc.
+#### Nach dem Tode
 
-#### Adding and Subtracting Damage
-
-When a move tells you to add damage, you add that damage to the roll on the
-dice. If it tells you to add some dice (like “+1d4 damage”) you roll that
-extra dice and add its result to the total.
-
-The same goes for subtracting damage: you subtract the number from the total
-rolled. If you subtract a dice (like “-1d6 damage”) you subtract the rolled
-amount from the original total. Damage never goes negative—0 damage is the
-minimum.
-
-#### Best and Worst
-
-Some monsters and moves have you roll damage multiple times and take the best
-or worst result. In this case roll as normal but only apply the best (or
-worst) result.
-
-If a monster rolls its d6 damage twice and takes the best result it’s written
-b[2d6]. The b[] means “best.” Likewise, w[] means worst, so w[3d10] means
-“roll a d10 for damage three times and use the worst result.”
-
-### Healing
-
-There are two sources of healing in Dungeon World: medical aid and the passage
-of time.
-
-Medical aid, both magical and mundane, heals damage according to the move or
-item used. Some moves may fully replenish HP while others heal just enough to
-keep someone standing through a fight.
-
-Whenever a character spends some time resting without doing anything to
-aggravate their wounds they heal. The amount of healing is described in the
-applicable moves: Make Camp for a night in a dangerous area, Recover for stays
-in civilization.
-
-No matter the source of the healing a character’s HP can never increase above
-their maximum.
-
-### Death
-
-Death stalks the edges of every battle. A character who is reduced to 0 HP
-immediately takes his Last Breath. Death comes for commoner and king alike—no
-stat is added to the Last Breath roll.
-
-No one knows what lies beyond the Black Gates of Death, but it is said that
-many secrets of the mortal plane are laid bare in the land of death’s
-dominion. When you die, you might just see them.
-
-Death offers bargains to some, from the simple to the costly. Death is
-capricious and may ask a favor in the future or exact a toll. He may demand a
-sacrifice or ask for something strange and seemingly innocent. Death’s whim
-cannot be predicted.
-
-Depending on the outcome of the Last Breath the character may become stable. A
-stable character stays at 0 HP but is alive and unconscious. If they receive
-healing they regain consciousness and may return to battle or seek safety. If
-a stable character takes damage again they draw their Last Breath once more
-and return to face Death.
-
-#### After Death
-
-Being an adventurer isn’t easy—it’s cold nights in the wild and sharp swords
-and monsters. Sooner or later, you’re going to make that long walk to the
-Black Gates and give up the ghost. That doesn’t mean you have to give it the
-satisfaction of sticking around. Death, in its way, is just another challenge
-to conquer. Even dead adventurers can rise again.
+Es ist nicht leicht Abenteurer zu sein - es heißt kalte Nächte in der Wildnis, scharfe Klingen und Monster. Früher oder später wird jemand seinen Geist aufgeben und den langen Marsch zu den schwarzen Toren antreten. Das muss nicht das ende seiner Geschichte sein. Der Tod ist, aud seine eigene Weise, nur eine Neue Herausfordeung, die es zu meistern gilt. Auch tote Abenteurer könen wieder auf(er)stehen. 
 
 If your character dies you can ask the GM and the other players to try and
 resurrect you. The GM will tell them what it will cost to return your poor,
@@ -242,6 +171,8 @@ dead character to life. If you fulfill the GM’s conditions the character is
 returned to life. The Resurrection spell is a special case of this: the magic
 of the spell gives you an easier way to get a companion back, but the GM still
 has a say.
+
+Falls dein Charakter stirbt, kannst du den SL und die anderen darum bitten, dich wiederbeleben zu laben. Der SL wird dir sagen, was es kosten wird, deinen armen, toten Charakter zurück in Leben zu holen. Wenn du die Bedingunegn
 
 No matter the prospects of resurrection for now you make a new character.
 Maybe a hireling becomes a full-fledged adventurer worthy of a whole share and
@@ -262,7 +193,7 @@ thousand gold pieces donated to a local temple. Think about the ramifications
 of such a charitable act and how it might affect the world. Remember: Death
 never forgets a soul stolen from his realm.
 
-### Debilities
+### Schwächungen/Beeinträchtigungen/Behinderungen
 
 Losing HP is a general thing, it’s getting tired, bruised, cut, and so on.
 Some wounds are deeper though. These are debilities.
