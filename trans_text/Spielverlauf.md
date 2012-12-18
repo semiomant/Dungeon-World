@@ -18,9 +18,9 @@ Jedes Attribut hat einen zugehörigen Modifikator, der bei Würfen mit dem Attri
 
 Die Grundeinheit der Regeln in DW ist ein Zug. Eine Zug hat folgende Form:
 
-Wenn du **einen Gegner im Nahkampf angreifst**, wirf+Stk. * Bei 10+, fügst du Schaden zu und weichst dem Gegenangriff aus. Wenn dü möchtest, kannst du dich einem Gegenangriff aussetzen, aber +1d6 Schaden verursachen. *Bei 7-9 fügst zu Schaden zu und der Gegner macht einen Angriff gegen dich.
+Wenn du **einen Gegner im Nahkampf angreifst**, wirf+Stk. * Bei 10+, fügst du Schaden zu und weichst dem Gegenangriff aus. Wenn du möchtest, kannst du dich einem Gegenangriff aussetzen, aber +1d6 Schaden verursachen. *Bei 7-9 fügst zu Schaden zu und der Gegner macht einen Angriff gegen dich.
 
-Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen Effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegner im Nahkampf angreifen" der Auslöser/Anstoß. Der Effekt sit wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effekte basierend auf den Ergebnis des Wurfes.
+Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen Effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegner im Nahkampf angreifen" der Auslöser/Anstoß. Der Effekt ist wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effekte basierend auf den Ergebnis des Wurfes.
 
 Wenn ein Spieler beschreibt, wie sein Charakter etwas macht, was einen Zug auslöst, kommt der Zug ins Spiel und seine Regeln werden angewendet. Wenn der Zug einen Wurf erfordert, sagt seine Beschreibung, was für Würfel zu werfen sind und wie man das Ergebnis liest.
 
@@ -32,7 +32,7 @@ Die vom SL geführten Monster, Nichtspielercharaktere und andere ausgewählte Be
 
 ### Züge und Würfel
 
-Die meisten Züge beinhalten die Formel "wirf+x", wobei x einer der Attributmodifikatoren des Charakters ist (Kon zum Besipiel). Wenn der Zug nicht etwas anderes fordert, bedeutet "wirf" einen Wurf von zwei sechsseitigen Würfeln und die Addition ihrer Augenzahl zum Wert des Modifikators. Bei manchen Würfen wird eine anderer Wert als ein Attributsmodifikator zum Wurf hinzugezählt.
+Die meisten Züge beinhalten die Formel "wirf+x", wobei x einer der Attributmodifikatoren des Charakters ist (Kon zum Beispiel). Wenn der Zug nicht etwas anderes fordert, bedeutet "wirf" einen Wurf von zwei sechsseitigen Würfeln und die Addition ihrer Augenzahl zum Wert des Modifikators. Bei manchen Würfen wird eine anderer Wert als ein Attributsmodifikator zum Wurf hinzugezählt.
 
 Ich mache einen Zug der mich auffordert wirf+Stk und mein Stärke Modifikator ist +1. Ich würfle zwei sechsseitige Würfel und erhalte eine zwei und eine fünf. Mein Ergebnis ist acht.
 
@@ -55,37 +55,31 @@ Objekte und Zeugs aller Art hat Etiketten. Etiketten sind Worte, um Dinge zu bes
 
 ### Die Auswirkungen von Zügen
 
-Die Auswirkungen von Zügen betreffen immer die fiktionale Welt, die die Charaktere bewohnen. 10+ bei Hauen und Stechen ziehen nicht bloss irgendwelche mechaniscehn Effekte in Speilsystem nach sich, sodern bdeutet auch, das du etwas erfolgreich angegriffen hast und ihm in irgendeiner Form Schaden zugefügt hast.
+Die Auswirkungen von Zügen betreffen immer die fiktionale Welt, die die Charaktere bewohnen. 10+ bei Hauen und Stechen ziehen nicht bloss irgendwelche mechanischen Effekte in Spielsystem nach sich, sondern bedeutet auch, das du etwas erfolgreich angegriffen hast und ihm in irgendeiner Form Schaden zugefügt hast.
 
 Sobald du ausgeknobelt/bestimmt hast was die Auswirkungen eines Zuges sind, wende sie auf die Fiktion an und wende dich dich wieder der Unterhaltung zu. Komme immer wieder auf das, was im Spiel passiert zurück.
 
-Manche Züge haben sofortige mechanische Effekte, wie Schaden verursachen oder jemanden einen Bonus auf den nächsten Wurf zu geben. Diese Auswirkungen sind immer eine wiedergabe der fiktionelen Welt, in der die Charaktere sind; gehe sicher dass die Fiktion zur Beschreibung der auswirkungen von Zügen benutzt wird.
+Manche Züge haben sofortige mechanische Effekte, wie Schaden verursachen oder jemanden einen Bonus auf den nächsten Wurf zu geben. Diese Auswirkungen sind immer eine Wiedergabe der fiktionalen Welt, in der die Charaktere sind; gehe sicher dass die Fiktion zur Beschreibung der Auswirkungen von Zügen benutzt wird.
 
 #### Manche Züge…
 
-…benutzen die Formel "Schaden verursachen". Schaden verursachen heisst, dass du die Schadenswürfel deiner Klasse würfelst, manchmal addiert oder subtrahiert deine Waffen zusätzlich Schaden. Man benutzt Schadenswürfel bei jedem Angriff der vernünfigerweise den Gegner verletzen könnte. das heißt normalerweise, das du eine Waffe führst, aber auch deine Fäuste können mit dem richtigen Training oder in den richtigen Umständen Waffen sein.
+…benutzen die Formel "Schaden verursachen". Schaden verursachen heisst, dass du die Schadenswürfel deiner Klasse würfelst, manchmal addiert oder subtrahiert deine Waffen zusätzlich Schaden. Man benutzt Schadenswürfel bei jedem Angriff der vernünftigerweise den Gegner verletzen könnte. das heißt normalerweise, das du eine Waffe führst, aber auch deine Fäuste können mit dem richtigen Training oder in den richtigen Umständen Waffen sein.
 
-…sagen "erhalte +1 fürder/voraus". Das heißt, dass du +1 auf deinen nächsten Wurf für einen Zug (nit für Schaden) erhälst. Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. Es könnte auch Bedingungen geben, so wie "erhalte +1 voraus für Hauen und Stechen". In diesem Fall darfst du den Bonus nur auf den nächsten Wurf auf "Hauen und Stechen" anwenden, und bei keinen anderen Zug.
+…sagen "erhalte +1 fürder/voraus". Das heißt, dass du +1 auf deinen nächsten Wurf für einen Zug (nicht für Schaden) erhältst. Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. Es könnte auch Bedingungen geben, so wie "erhalte +1 voraus für Hauen und Stechen". In diesem Fall darfst du den Bonus nur auf den nächsten Wurf auf "Hauen und Stechen" anwenden, und bei keinen anderen Zug.
 
-…sagen "nimm/erhalte +1 fortlaufend". das heißt, dass du +1 auf alle Würfe, die du für Züge machst, erhälst (nicht bei Schaden). Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. es könnte auch eine Bedingung geben, so wie "erhalte +1 fortlaufend auf Volley". Ein fortlaufender Bonus legt auch fest, was dazu führt, dass er endet, wie etwa "bis zu den Spruch beendest" oder "bis du in den Augen deines Gottes Buße getan hast."
+…sagen "nimm/erhalte +1 fortlaufend". das heißt, dass du +1 auf alle Würfe, die du für Züge machst, erhältst (nicht bei Schaden). Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. es könnte auch eine Bedingung geben, so wie "erhalte +1 fortlaufend auf Volley". Ein fortlaufender Bonus legt auch fest, was dazu führt, dass er endet, wie etwa "bis zu den Spruch beendest" oder "bis du in den Augen deines Gottes Buße getan hast."
 
-…geben dir "Handhabe". Handhabe ist eine Währung die erlaubt, zu einem späteren Zeitpunkt Enstscheidungnen zu machen indem du deine Handhabe ausgibst. Die Handhabe ist an den Zug gebunden, der sie dir gegeben hat, du kannst zum Beispiel weder deine Handhabe von Verteidigen für Fallenexperte ausgeben, noch andersherum.
+…geben dir "Handhabe". Handhabe ist eine Währung die erlaubt, zu einem späteren Zeitpunkt Entscheidungen zu machen indem du deine Handhabe ausgibst. Die Handhabe ist an den Zug gebunden, der sie dir gegeben hat, du kannst zum Beispiel weder deine Handhabe von Verteidigen für Fallenexperte ausgeben, noch andersherum.
 
 …stellen dich vor die Wahl. Die Wahl, die du triffst, schreibt wie alle Zugauswirkungen die Dinge vor, die in der Fiktion zusätzlich zu den mechanischen Effekten passieren. Wenn du die Entscheidung triffst, auf 10+ bei Hauen und Stechen mehr Schaden zu verursachen auf Kosten eines möglichen Gegenangriffs, so ist es genau das was deinem Charakter passiert: er hat einen Vorteil errungen, den er nutzen kann um auf der sicheren Seite zu sein oder sein Glück herauszufordern.
 
-…Give you a chance to say something about your character and their history.
-When you spout lore you may get asked how you know the information that the GM
-reveals. Take that opportunity to contribute to the game and show who your
-character really is. Just keep in mind the established facts and don’t
-contradict anything that’s already been described.
-
-…geben dir eine Möglichkeit etwas über deinen Charakter und ihre Geschichte zu sagen. Wenn du *Weisheiten kundtust* kann es passieren, dass du gefragt wirst woher du dass Wissen hast, das der SL offenbart. Nimmm diese Gelegenheit wahr zum Spiel beizutragen und zu zeigen wer dein Charakter wirklich ist. Beachte bloss die schon etablierten Fakten, und widerspreche nicht einem Sachverhalt, der schon beschrieben wurde.
+…geben dir eine Möglichkeit etwas über deinen Charakter und ihre Geschichte zu sagen. Wenn du *Weisheiten kundtust* kann es passieren, dass du gefragt wirst woher du dass Wissen hast, das der SL offenbart. Nimm diese Gelegenheit wahr zum Spiel beizutragen und zu zeigen wer dein Charakter wirklich ist. Beachte bloss die schon etablierten Fakten, und widerspreche nicht einem Sachverhalt, der schon beschrieben wurde.
 
 …sagen "markiere EP". Das heißt, dass du eins zu der Summe deiner Ep hinzuzählst.
 
 ## Verletzungen und Heilung
 
-Schnitte, Prellungen und tötliche Wunden sind die üblichen Gefahren, denen sich abenteurer in DW stellen müssen. Im Laufe des Spiels müssen die Charaktere Schaden einstecken, heilen, oder können auch sterben. Die Gesundheit eines Charakters wird mit seinen Treffenpunkten (TP) gemessen. Schaden wird von den TP abgezogen. Unter den richtigen Bedingungen, oder durch medizinische order magische Hilfe, wird Schaden geheilt und die TP wiederhergestellt.  
+Schnitte, Prellungen und tödliche Wunden sind die üblichen Gefahren, denen sich Abenteurer in DW stellen müssen. Im Laufe des Spiels müssen die Charaktere Schaden einstecken, heilen, oder können auch sterben. Die Gesundheit eines Charakters wird mit seinen Treffenpunkten (TP) gemessen. Schaden wird von den TP abgezogen. Unter den richtigen Bedingungen, oder durch medizinische oder magische Hilfe, wird Schaden geheilt und die TP wiederhergestellt.  
 
 ### TP
 
@@ -95,47 +89,47 @@ Deine Klasse verrät dir deine maximalen TP. Deine Konstitution (das Attribut, n
 
 ### Schaden
 
-Wenn ein Carakter Schaden einstecken muss, zieht der den erhalten Schaden den akuellen TP ab. Rüstung reduziert Schaden; wenn ein Charakter eine Rüstung hat zieht man ihren Wert vom Schaden ab. Das kann heißen, das ein Schlag komplett abgelenkt wird - das ist in Ordnung so, dafür ist Rüstung schliesslich da! Schaden kann einen Charakter nie unter 0 TP bringen.
+Wenn ein Charakter Schaden einstecken muss, zieht der den erhalten Schaden den aktuellen TP ab. Rüstung reduziert Schaden; wenn ein Charakter eine Rüstung hat zieht man ihren Wert vom Schaden ab. Das kann heißen, das ein Schlag komplett abgelenkt wird - das ist in Ordnung so, dafür ist Rüstung schliesslich da! Schaden kann einen Charakter nie unter 0 TP bringen.
 
-Der Schaden wird vom Angreifer ermittelt. Spieler verursachen Schden abhängig von ihrer Klasse, der verwendeten Waffe und dem Zug, den sie gemacht haben.
+Der Schaden wird vom Angreifer ermittelt. Spieler verursachen Schaden abhängig von ihrer Klasse, der verwendeten Waffe und dem Zug, den sie gemacht haben.
 
-Wenn ein Zug bloß "Schden verursachen" anführt so würfelt der Charakter den Schadenswürfel seiner Klasse plus alle Boni oder Abzüge von Zügen, Waffen oder Effekten. Falls ein Zug eine  Menge an Schaden festlegt, benutze diesen anstatt des Schadenswurfes der Klasse.
+Wenn ein Zug bloß "Schaden verursachen" anführt so würfelt der Charakter den Schadenswürfel seiner Klasse plus alle Boni oder Abzüge von Zügen, Waffen oder Effekten. Falls ein Zug eine  Menge an Schaden festlegt, benutze diesen anstatt des Schadenswurfes der Klasse.
 
 Monster würfeln mit dem Schadenswert der in ihrer Beschreibung aufgeführt wird. Verwend diesen Schaden immer wenn das Monster etwas macht, was direkt zu Schaden bei jemandem führt, selbst wenn es dabei eine andere Methode als seinen normalen Angriff einsetzt.
 
-Andere Ursachen von Schaden - wie etwa von einem herabfallenden Trümmerstück eines einstürzenden Tirms getroffen zu werden oder in eine Fallgrube stürzen - sind dem Spielleiter basierd auf folgeden Prinzipien überlassen:
+Andere Ursachen von Schaden - wie etwa von einem herabfallenden Trümmerstück eines einstürzenden Turms getroffen zu werden oder in eine Fallgrube stürzen - sind dem Spielleiter basierend auf folgenden Prinzipien überlassen:
 
-* wenn es schlimmstensfalls Kratzer und Prellungen drohen: d4 Schaden
-* wenn es bluten könnte, aber nicht schrekliches passiert: d6 Schaden
+* wenn es schlimmstenfalls Kratzer und Prellungen drohen: d4 Schaden
+* wenn es bluten könnte, aber nicht schreckliches passiert: d6 Schaden
 * Wenn Knochen brechen könnten: d8 Schaden
 * wenn eine normale Person daran sterben könnte: d10 Schaden
 
-Füge das Eikett _ignoroert RÜstung_ hinzu wenn die Schadensquelle besonders gross ist oder der Schaden von Gift oder Magie herrührt.
+Füge das Etikett _ignoriert Rüstung_ hinzu wenn die Schadensquelle besonders gross ist oder der Schaden von Gift oder Magie herrührt.
 
 Zeitweise oder von besonderen Umständen verliehener Schutz wirk wie Rüstung die man trägt: 1 Punkt Rüstung für teilweise Deckung, 2 für bedeutende Deckung.
 
-Schaden wird aufgrund der Fiktion ausgeteilt. Züge die Schaden verursachen wie etws Hauen und Stechen sund Spezialfälle dieser Regelung: der Zug legt fest, dass Schaden in Fiktion verursacht wird. Schaden kann zugewiesen werden ohne das ein Zug gemacht wird, falls sich das aus der Fiktion ergibt.
+Schaden wird aufgrund der Fiktion ausgeteilt. Züge die Schaden verursachen wie etwa Hauen und Stechen sind Spezialfälle dieser Regelung: der Zug legt fest, dass Schaden in Fiktion verursacht wird. Schaden kann zugewiesen werden ohne das ein Zug gemacht wird, falls sich das aus der Fiktion ergibt.
 
 Verlust von Trefferpunkten ist oft nur ein Teil der Auswirkungen. Wenn die Verletzungen sehr  allgemeiner Natur sind, wie der Sturz in eine Grube, ist wahrscheinlich der Verlust von TP alles. Wenn die Verletzung jedoch spezifisch ist, wie wenn ein Ork dir den Arm auskugelt, sollten Tp Teil der Effekte sein, aber nicht alles. Das grössere Problem ist dem dem ausgekugelten Arm umzugehen: wie schwingt man nun ein Schwert oder führt einen Zauber aus? Und wenn einem der kopf abgeschlagen wird ist das kein Verlust von Tp, man ist einfach tot. 
 
 #### Schaden durch mehrere Kreaturen
 
-Nur die mutigsten Monster kämpfen allein. Die meisten Kreaturen kämpfen mit jemandem an ihrer Seite, und vieleicht noch jemand zur Rückendekung und möglicherweise noch ein Bögenschütze, um den Rückzug zu decken und so weiter. Das kann dazu gühren, das mehrere Monster auf einaml Schden austeilen.
+Nur die mutigsten Monster kämpfen allein. Die meisten Kreaturen kämpfen mit jemandem an ihrer Seite, und vielleicht noch jemand zur Rückendeckung und möglicherweise noch ein Bogenschütze, um den Rückzug zu decken und so weiter. Das kann dazu führen, das mehrere Monster auf einmal Schaden austeilen.
 
-Wenn mehr als eine Kreatur auf einmal angreift, wirf die Schadenswürfel für jede der Kreaturen und nimm das höchste Resultat. Falls einige der Kreaturen verscheidene viel Schaden verursachen können, nimm den Schaden mit dem höchsten Potential von allen in den Angriff verwickelten Kreaturen und nimm das höchste Resultat.
+Wenn mehr als eine Kreatur auf einmal angreift, wirf die Schadenswürfel für jede der Kreaturen und nimm das höchste Resultat. Falls einige der Kreaturen verscheiden viel Schaden verursachen können, nimm den Schaden mit dem höchsten Potential von allen in den Angriff verwickelten Kreaturen und nimm das höchste Resultat.
 
-_BSP: Ein Goblin Orkaster (d10+1 Schaden, ignorert Rüstung) und drei goblins (d6 Schaden) schleudern alle ihre jeweiliegn Waffen - eine Kugel magischer Säure für den Orkaster, Speere für den Rest - auf Lux, die ihre Barrikade angreift. Ich würfle den den höchsten Schaden, d10+1 ignorert Rüstung, viermal: einemal für den orkaster und je einmal für die anderen Goblins. Ich nehme das höchste Resultat, eine 8, und sage Lux, daß sie 9 Schaden, der ihre Rüstung ignoriert, nimmt als die Säure durch die Risse/Spalten, die die Speere hinterlassen haben dringt._
+_BSP: Ein Goblin Orkaster (d10+1 Schaden, ignoriert Rüstung) und drei Goblins (d6 Schaden) schleudern alle ihre jeweiligen Waffen - eine Kugel magischer Säure für den Orkaster, Speere für den Rest - auf Lux, die ihre Barrikade angreift. Ich würfle den den höchsten Schaden, d10+1 ignoriert Rüstung, viermal: einmal für den orkaster und je einmal für die anderen Goblins. Ich nehme das höchste Resultat, eine 8, und sage Lux, dass sie 9 Schaden, der ihre Rüstung ignoriert, nimmt als die Säure durch die Risse/Spalten, die die Speere hinterlassen haben dringt._
 
 #### Betäubungsschaden
 
-Betäubungsschaden ist nicht-tötlicher Schaden. ein SC, der Betäubungsschden nimmt trotz der Gefahr um überhapt etwas zu tun, wobei die Gefahr ist "du bist betäubt/benommen". das dauert an, solange es in der Fiktion Sinn ergibt  - du bist benommen bis du die chance hast einen klaren kopf zu bekommen oder zu beseitigen, was dich betäubt. Ein SL Charakter der betäubungschaden nimmt, zieht diesen nicht von seinen TP ab, wird sich aber entsprechend verhalten, herumtaumeln, blindlings herumfummeln usw.
+Betäubungsschaden ist nicht-tödlicher Schaden. ein SC, der Betäubungsschaden nimmt trotz der Gefahr um überhaupt etwas zu tun, wobei die Gefahr ist "du bist betäubt/benommen". das dauert an, solange es in der Fiktion Sinn ergibt  - du bist benommen bis du die Chance hast einen klaren kopf zu bekommen oder zu beseitigen, was dich betäubt. Ein SL Charakter der Betäubungsschaden nimmt, zieht diesen nicht von seinen TP ab, wird sich aber entsprechend verhalten, herum taumeln, blindlings herumfummeln usw.
 
 
 #### Zusätzlicher und Verminderter Schaden
 
-Wenn ein zug dir sagt, dass du zusätzlichen Schaden hinzufügen sollst, addiere diesen Schaden zu dem, den du mit den Schadenwürfeln ermittelt hast. Falls er sagt, Würfel hinzuzufügen (etwa "+1d4 Schaden"), würfelst dü den zusätzlicehn Würfel und zählt das Ergebnis zum Resutat hinzu. 
+Wenn ein Zug dir sagt, dass du zusätzlichen Schaden hinzufügen sollst, addiere diesen Schaden zu dem, den du mit den Schadenwürfeln ermittelt hast. Falls er sagt, Würfel hinzuzufügen (etwa "+1d4 Schaden"), würfelst du den zusätzlichen Würfel und zählt das Ergebnis zum Resultat hinzu. 
 
-Das gleiche gilt bei vermindertem Schaden: du ziehst die Zahl vom erwürfelten Ergebnis ab. Wenn du einen Würfel abzihen sollst (etwa "-1w6 Schaden") ziehst du das Resulat dieses Würfels von der ursprünglichen Summe ab. SChaden hat niemals einen negativen Wert - 0 Schaden is das Minimum.
+Das gleiche gilt bei vermindertem Schaden: du ziehst die Zahl vom gewürfelten Ergebnis ab. Wenn du einen Würfel abziehen sollst (etwa "-1w6 Schaden") ziehst du das Resultat dieses Würfels von der ursprünglichen Summe ab. SChaden hat niemals einen negativen Wert - 0 Schaden ist das Minimum.
 
 #### Das Beste und Schlechteste
 
@@ -145,90 +139,55 @@ Bei einigen Monstern und Zügen wird mehrmals Schaden ausgewürfelt und entweder
 
 Es gibt zwei Quellen der Heilung in DW: medizinischer Beistand und das Vergehen der Zeit.
 
-Medizinischer Besitand, ob magisch oder weltlich/profan/normal, heilt Schaden je nach angewendetem Zug oder Gegenstand. Manche Züge vermögen die TP wieder aufzufüllen, während andere gerade genung heilen, um jemanden während eines Kampfes auf den Beinen zu halten. 
+Medizinischer Beistand, ob magisch oder weltlich/profan/normal, heilt Schaden je nach angewendetem Zug oder Gegenstand. Manche Züge vermögen die TP wieder aufzufüllen, während andere gerade genug heilen, um jemanden während eines Kampfes auf den Beinen zu halten. 
 
-Wenn ein Charakter einige Zeit mit Rasten/erholung/ruhe verbringt, ohne etwas zu tun, was ihre Wunden verschlimmert, so heilen sie. Der Betrag der Heilung ist in den entsprechenden Zügen vermerkt: Lagern für eine Nacht in einer gefährlichen Gegend, Erholen für Aufenthalte in der Zivilisation.
+Wenn ein Charakter einige Zeit mit Rasten/Erholung/ruhe verbringt, ohne etwas zu tun, was ihre Wunden verschlimmert, so heilen sie. Der Betrag der Heilung ist in den entsprechenden Zügen vermerkt: Lagern für eine Nacht in einer gefährlichen Gegend, Erholen für Aufenthalte in der Zivilisation.
 
 Unabhängig von der Ursache der Heilung können die sich die TP eines Charakters nicht über ihr Maximum hinaus erhöhen.
 
 ### Tod
 
-Der Tod lauert am Rande jeder Schlacht. Ein Charakter, der auf 0 TP reduziert worden ist tut sofort seinen letzten Atemzug. Der Tod holt den Gemeinen wie den König gleichermaßen - kein Attribut wird auf den wurf für den letzten Atemzug angwendet. 
+Der Tod lauert am Rande jeder Schlacht. Ein Charakter, der auf 0 TP reduziert worden ist tut sofort seinen letzten Atemzug. Der Tod holt den Gemeinen wie den König gleichermaßen - kein Attribut wird auf den wurf für den letzten Atemzug anwendet. 
 
-Niemand weiß, was jenseits der Schwarzen Tore des Todes liegt, aber man sagt das viele Geheimnisse der sterblichen Welt im Reich des Todes offenbart werden. Wenn du stirbtst, kannst du sie vielleicht erfahren.
+Niemand weiß, was jenseits der Schwarzen Tore des Todes liegt, aber man sagt das viele Geheimnisse der sterblichen Welt im Reich des Todes offenbart werden. Wenn du stirbst, kannst du sie vielleicht erfahren.
 
-Der Tod bietet manchen ein Handel an, manche einfach andere teuer. der Tod ist lauenhaft und mag einen zukünftigen Gefallen oder einen Tribut fordern. Er mag ein Opfer verlangen, oder um etwas Seltames oder scheinbar Harmloses bitten. Niemand kann voraussagen, was dem TOd in den Sinn kommen wird.  
+Der Tod bietet manchen ein Handel an, manche einfach andere teuer. der Tod ist launenhaft und mag einen zukünftigen Gefallen oder einen Tribut fordern. Er mag ein Opfer verlangen, oder um etwas Seltsames oder scheinbar Harmloses bitten. Niemand kann voraussagen, was dem Tod in den Sinn kommen wird.  
 
-Abhänig von Ausgang des letzen Atemzugs mag sich der Charakter stabilisieren. Ein stabiler Charakter bleibt bei 0 TP, ist aber am Leben und ohne Bewußtsein. Wenn sie geheilt werden, erlangen sie das Bewusstsein zurück und kann sich wieder in den Kampf stürzen oder in Sicherheit bringen. Wenn ein stabiler Charakter erneut Schaden erhält, so muss von neuem seinen letzten Atemzug nehmen und sich wieder dem Tod stellen.  
+Abhängig von Ausgang des letzen Atemzugs mag sich der Charakter stabilisieren. Ein stabiler Charakter bleibt bei 0 TP, ist aber am Leben und ohne Bewusstsein. Wenn sie geheilt werden, erlangen sie das Bewusstsein zurück und kann sich wieder in den Kampf stürzen oder in Sicherheit bringen. Wenn ein stabiler Charakter erneut Schaden erhält, so muss von neuem seinen letzten Atemzug nehmen und sich wieder dem Tod stellen.  
 
 #### Nach dem Tode
 
-Es ist nicht leicht Abenteurer zu sein - es heißt kalte Nächte in der Wildnis, scharfe Klingen und Monster. Früher oder später wird jemand seinen Geist aufgeben und den langen Marsch zu den schwarzen Toren antreten. Das muss nicht das ende seiner Geschichte sein. Der Tod ist, aud seine eigene Weise, nur eine Neue Herausfordeung, die es zu meistern gilt. Auch tote Abenteurer könen wieder auf(er)stehen. 
+Es ist nicht leicht Abenteurer zu sein - es heißt kalte Nächte in der Wildnis, scharfe Klingen und Monster. Früher oder später wird jemand seinen Geist aufgeben und den langen Marsch zu den schwarzen Toren antreten. Das muss nicht das ende seiner Geschichte sein. Der Tod ist, auf seine eigene Weise, nur eine Neue Herausforderung, die es zu meistern gilt. Auch tote Abenteurer können wieder auf(er)stehen. 
 
-If your character dies you can ask the GM and the other players to try and
-resurrect you. The GM will tell them what it will cost to return your poor,
-dead character to life. If you fulfill the GM’s conditions the character is
-returned to life. The Resurrection spell is a special case of this: the magic
-of the spell gives you an easier way to get a companion back, but the GM still
-has a say.
+Falls dein Charakter stirbt, kannst du den SL und die anderen darum bitten, dich wieder zu beleben zu lassen. Der SL wird dir sagen, was es kosten wird, deinen armen, toten Charakter zurück in Leben zu holen. Wenn du die Bedingungen des Spielleiters erfüllst, kehrt dein Charakter ins Leben zurück. Der Zauber Wiederauferstehung ist ein Spezialfall dieser Regelung: die Magie macht erleichtert das Wiederbeleben von Kameraden, aber der SL hat trotzdem ein Mitspracherecht.
 
-Falls dein Charakter stirbt, kannst du den SL und die anderen darum bitten, dich wiederbeleben zu laben. Der SL wird dir sagen, was es kosten wird, deinen armen, toten Charakter zurück in Leben zu holen. Wenn du die Bedingunegn
+Wie auch immer die Aussuchten auf Wiederbelebung sind, mach fürs erste einen neuen Charakter. Vielleicht wird ein Mietling ein vollwertiger Abenteurer, der nun an der eigentlichen Handlung teilnimmt und sich so einen ganzen Anteil verdient. Vielleicht finden die Charaktere der Gruppe einen neuen Freund in einem Anwesen/Weiler/Ansiedlung, der bereit ist mit ihnen zu gehen. Vielleicht schwört jemand aus der Familie deines Charakters Rache für seinen Tod und geift nun zu Waffe oder Zauber, um Recht und Ordnung wiederherzustellen. Erstelle in  jedem Falle deinen Charakter so wie du einen auf Stufe 1 machen würdest. Falls dein ursprünglicher Charakter in Leben zurückkehrt, kannst du sowohl den einen oder den anderen spielen und zwischen beiden wechseln (solange das Sinn ergibt).
 
-No matter the prospects of resurrection for now you make a new character.
-Maybe a hireling becomes a full-fledged adventurer worthy of a whole share and
-a part in the real action. Maybe the characters in the party find a new friend
-in a steading, willing to join them. Maybe your character had a vengeful
-family member who now seeks to take up their blades and spells to make right
-what happened. In any case, make your new character as you normally would at
-level 1. If your original character returns to life you can play either
-character, switching between them as you please (so long as it makes sense).
-
-GM, when you tell the players what needs to be done to bring their comrade
-back, don’t feel like it has to derail the flow of the current game. Weave it
-in to what you know of the world. This is a great opportunity to change focus
-or introduce an element you’ve been waiting to show off. Don’t feel, either,
-that it has to be some great and epic quest. If the character died at the end
-of a goblin pike, maybe all it takes is an awkward walk home and a few
-thousand gold pieces donated to a local temple. Think about the ramifications
-of such a charitable act and how it might affect the world. Remember: Death
-never forgets a soul stolen from his realm.
+Wenn du als SL den Spielern mitteilst, was zu tun ist, um ihren gefallen Kameraden zurück zu bringen, brauchst du dich nicht verpflichtet zu fühlen, den derzeitigen Fluss des Spieles zu unterbrechen. Verwebe es mit dem, was du über die Welt weisst. Es ist eine gute Gelegenheit ein Element einführen, das du schon lange vorzeigen wollest (lol dt satz muss ganz anders.) Fühle dich auch nicht verpflichtet, dass es eine grosse und epische Queste werden muss.  Wenn der Charakter durch die pike eines Goblins umgekommen ist, ist vielleicht nur ein umständlicher weg nach hause und ein Spende von ein paar tausend Goldstücken an den örtlichen Tempel nötig. Beachte die Auswirkungen dieses wohltätigen Aktes und wie er die Welt betreffen/in eingeifen könnte. Merke: der Tod vergisst nie, wenn seinem Reich eine Seele geraubt/vorenthalten wird.
 
 ### Schwächungen/Beeinträchtigungen/Behinderungen
 
-Losing HP is a general thing, it’s getting tired, bruised, cut, and so on.
-Some wounds are deeper though. These are debilities.
+TP zu verlieren ist eine abstrakte Sache, es könnte Erschöpfung, Prellungen, schnitte usw. bedeuten. Einige wunden gehen tiefer. Das sind Beeinträchtigungen.
 
-**Weak (STR):** You can’t exert much force. Maybe it’s just fatigue and injury, or maybe your strength was drained by magic.
+**Schwach(STK):** Du kannst keine kraft ausüben. Vielleicht ist es nur Mündigkeit und Verletzungen, oder deine stärke wurde durch Magie entzogen.
 
-**Shaky (DEX):** You’re unsteady on your feet and you’ve got a shake in your hands.
+**wackelig (GES):** du bist unsicher auf den beinen und hast ein zittern in den Händen.
 
-**Sick (CON):** Something just isn’t right inside. Maybe you’ve got a disease or a wasting illness. Maybe you just drank too much ale last night and it’s coming back to haunt you.
+**unpäßlich/elend (KON):** irgend etwas stimmt nicht mit dir. Vielleicht hast du eine Krankheit oder eine auszehrendenes Leiden. Vielleicht hast du aber auch nur gestern Abend zuviel Ale getrunken, und jetzt rächt es sich.
 
-**Stunned (INT):** That last knock to the head shook something loose. Brain not work so good.
+**betäubt (INT):** Dieser letzte schlag auf den kopf hat eine schraube gelöst. Gehirn nicht so gut gehen.
 
-**Confused (WIS):** Ears ringing. Vision blurred. You’re more than a little out of it.
+**verwirrt (WEI):** Ohren klingeln. Sicht undeutlich.  Du bist nicht so recht bei dir.
 
-**Scarred (CHA):** It may not be permanent, but for now you don’t look so good.
+**entstellt (CHA):** es mag nicht für immer sein, aber im Augenblick siehst du nicht gerade schön aus.
 
-Not every attack inflicts a debility—they’re most often associated with magic,
-poison, or stranger things like a vampire sucking your blood. Each debility is
-tied to an ability and gives you -1 to that ability’s modifier. The ability’s
-score is unaffected so you don’t have to worry about changing your maximum HP
-when you’re sick.
+Nicht jeder angriff verursacht(inflict) eine Beeinträchtigung - sie hängen häufig mit Magie, Gift oder noch merkwürdigeren dingen zusammen, wie etwa ein Vampir, der dein Blut saugt. Jede Beeinträchtigung ist mit einem Attribut verbunden und du erhältst -1 auf den entsprechenden Attributsmodifikator. Der attributswert selbt ist nicht betroffen, also brachst du dich nicht darum kümmern, ob sich deine maximalen TP verändern, wenn du umpäßlich wirst.
 
-You can only have each debility once. If you’re already Sick and something
-makes you Sick you just ignore it.
+Jede Beeinträchtugung kann dich nur einmal zur Zeit befallen. Wenn du schon elend bist und etwas macht dich elend, ignoriere es einfach.
 
-Debilities are harder to heal than HP. Some high level magic can do it, sure,
-but your best bet is getting somewhere safe and spending a few days in a soft,
-warm bed. Of course, debilities are both descriptive and prescriptive: if
-something happens that would remove a debility, that debility is gone.
+Beeinträchtigungen sind schwerer zu heilen als TP. Klar gibt es hochstufige Magie, die es fertigbringt, aber die beste Vorgehensweise ist sich an einem sicheren Ort ein paar Tage in einem warmen, weichen Bett zu verbringen. Beeintächtigungen sind beschreibend und normativ: falls etwas passiert, was die Beeinträchtigung aufhebt, so ist sie weg.
 
-Debilities don’t replace descriptions and using the established fiction. When
-someone loses an arm that doesn’t mean they’re Weak, it means they have one
-less arm. Don’t let debilities limit you. A specific disease can have whatever
-effects you can dream up. Sick is just a convenient shorthand for some
-anonymous fever picked up from a filthy rat.
+Beeinträchtigungen ersetzten keine Beschreibungen oder die hergstellte Fiktion. Wenn jemand einen Arm verliert heißt das nicht, dass er schwach ist, es bedeutet, dass er einen Arm weniger hat. LAss dich nich durch Beeinträchtigungen einschränken. Eine bestimmte Kankheit kann jeden Effekt haben, den du dir ausdenken kannst. Unpäßlich ist nur ein Kürzel für ein anonymes Fieber, dass du dir von einer verdreckten Ratte eingefangen hast.
 
 ## Magic
 
