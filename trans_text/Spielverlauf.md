@@ -1,8 +1,9 @@
 # Spiel(ab/ver)lauf
 
-Dungeon World spielen heißt eine Unterhaltung führen; jemand sagt etwas, dann antwortet man, vielleicht schaltet sich noch jemand anderes ein. Wir reden über die Fiktion - die Welt der Charaktere und die Dinge, die um sie herum passieren. Während wir spielen schalten sich die Regeln auch ein. Sie haben etwas über die Welt zu sagen. Es gibt keine Runden oder "dran sein" in Dungeon World, keine Regel legt fest, wer wann etwas sgaen darf. Statt dessen sagt jeder etwas entsprechend dem natürlichen Ablauf der Unterhaltung, was immer eine gewisses hin-und-her einschliesst. Der Sl sagt etwas, die Spieler antworten. Die Spieler stellen Fragen oder machen Feststellungen/Aussagen, der Sl erzählt ihnen was als nächstes geschieht. DW ist niemals ein Monolog; es ist immer eine Unterhaltung. 
+Dungeon World spielen heiﬂt eine Unterhaltung führen; jemand sagt etwas, dann antwortet man, vielleicht schaltet sich noch jemand anderes ein. Wir reden über die Fiktion - die Welt der Charaktere und die Dinge, die um sie herum passieren. Während wir spielen schalten sich die Regeln auch ein. Sie haben etwas über die Welt zu sagen. Es gibt keine Runden oder "dran sein" in Dungeon World, keine Regel legt fest, wer wann etwas sgaen darf. Statt dessen sagt jeder etwas entsprechend dem natürlichen Ablauf der Unterhaltung, was immer eine gewisses hin-und-her einschliesst. Der SL sagt etwas, die Spieler antworten. Die Spieler stellen Fragen oder machen Feststellungen/Aussagen, der Sl erzählt ihnen was als nächstes geschieht. DW ist niemals ein Monolog; es ist immer eine Unterhaltung. 
 
-Die Regeln helfen dabei, die Spielunterhaltung zu formen. Während sich der SL und die Spieler unterhalten, reden auch die Regeln und die Fiktion miteinander. Jede Regel hat einen bestimmen fiktionalen Auslöser/Anlass/Grund, der darüber Auskunft gibt, wann sie in die Unterhaltung eingreifen sollte.
+Die Regeln helfen dabei, die Spielunterhaltung zu formen. Während sich der SL und die Spieler unterhalten, reden auch die Regeln und die Fiktion miteinander. Jede Regel hat einen bestimmen fiktionalen Auslöser/Anlass/Grund, der darüber 
+Auskunft gibt, wann sie in die Unterhaltung eingreifen sollte.
 
 Wie bei jeder Unterhaltung ist die Zeit, die man mit Zuhören verbringt genauso wichtig wie die Zeit, in der man spricht. Die von den anderen Mitspielern etablierten Details sind wichtig für dich: sie verändern möglicherweise, die Züge, die du machen kannst, eröffnen dir neue Möglichkeiten, oder erschaffen eine Herausforderung, die du durchstehen musst. Die Unterhaltung funktioniert am besten wenn wir alle zuhören, Fragen stellen, und auf den Beiträgen der anderen aufbauen. 
 
@@ -10,7 +11,7 @@ Dieses Kapitel handelt davon, wie man Dungeon World spielt. Hier findest du Info
 
 ### Attributwerte und Modifikatoren
 
-Viele der in diesem Kapitel diskutierten Regeln basieren auf Attributen eines Spielercharakters und deren Modifikatoren. Die Attribute sind Stärke, Konstitution, Geschicklichkeit, Intelligenz, Weisheit und Charisma. Sie sind ein maß für die rohe Befähigung einer Spielercharakters auf dem jeweiligen Gebiet auf einer Skala von 3 bis 18, wobei 18 der höchste Wert ist den gewöhnliche Sterbliche erreichen können.
+Viele der in diesem Kapitel diskutierten Regeln basieren auf Attributen eines Spielercharakters und deren Modifikatoren. Die Attribute sind Stärke, Konstitution, Geschicklichkeit, Intelligenz, Weisheit und Charisma. Sie sind ein maﬂ für die rohe Befähigung einer Spielercharakters auf dem jeweiligen Gebiet auf einer Skala von 3 bis 18, wobei 18 der höchste Wert ist den gewöhnliche Sterbliche erreichen können.
 
 Jedes Attribut hat einen zugehörigen Modifikator, der bei Würfen mit dem Attribut verwendet wird. Die Attribute werden mit drei Buchstaben abgekürzt: Stk, Kon, Ges, Int, Wei, Cha. Die Modifikatoren haben einen Wertbereich von -3 bis +3. Der Modifikator leitet sich vom Atrributswert ab.
 
@@ -20,9 +21,11 @@ Die Grundeinheit der Regeln in DW ist ein Zug. Eine Zug hat folgende Form:
 
 Wenn du **einen Gegner im Nahkampf angreifst**, wirf+Stk. * Bei 10+, fügst du Schaden zu und weichst dem Gegenangriff aus. Wenn du möchtest, kannst du dich einem Gegenangriff aussetzen, aber +1d6 Schaden verursachen. *Bei 7-9 fügst zu Schaden zu und der Gegner macht einen Angriff gegen dich.
 
-Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen Effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegner im Nahkampf angreifen" der Auslöser/Anstoß. Der Effekt ist wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effekte basierend auf den Ergebnis des Wurfes.
+Züge sind Regeln, die beschreiben, wann sie ausgelöst werden und welchen Effekt sie haben. Ein Zug hängst von einer fiktionalen Handlung ab und hat immer einen fiktionalen Effekt. "Fiktional" heisst, dass Handlung und Effekt aus der Welt 
+der Charaktere stammen, die wir beschreiben. Im obigen Zug ist "einen Gegner im Nahkampf angreifen" der Auslöser/Anstoﬂ. Der Effekt ist wie folgt: ein Wurf wird gemacht und verschiedne fiktionale Effekte basierend auf den Ergebnis des Wurfes.
 
-Wenn ein Spieler beschreibt, wie sein Charakter etwas macht, was einen Zug auslöst, kommt der Zug ins Spiel und seine Regeln werden angewendet. Wenn der Zug einen Wurf erfordert, sagt seine Beschreibung, was für Würfel zu werfen sind und wie man das Ergebnis liest.
+Wenn ein Spieler beschreibt, wie sein Charakter etwas macht, was einen Zug auslöst, kommt der Zug ins Spiel und seine Regeln werden angewendet. Wenn der Zug einen Wurf erfordert, sagt seine Beschreibung, was für Würfel zu werfen sind 
+und wie man das Ergebnis liest.
 
 Ein Charakter kann nicht die fiktionale Handlung durchführen, die einen Zug auslöst, ohne dass der Zug stattfindet. Wenn zum Beispiel Isaac dem Spielleiter sagt, dass sein Charakter an einen durchgedrehten, äxteschwingenden Ork vorbei zur offenen Tür stürzt/schlüpft/flitzt, so macht er den der Gefahr trotzen Zug, da dessen Auslöser ist "wenn man trotz einer unmittelbaren Gefahr handelt". Issac kann nicht einfach beschreiben wie sein Charakter am Ork vorbeiläuft ohne den derGefahr trotzen Zug zu machen und der kann den der Gefahr trotzen Zug nicht machen wenn er nicht trotz einer unmittelbaren Gefahr oder eines drohenden Unglücks etwas unternimmt. Züge und die Fiktion gegen Hand in Hand.
 
@@ -45,37 +48,46 @@ Schadenswürfe funktionieren anders. Sie nutzen möglicherweise sogar auch ander
 
 ### Züge und Ausrüstung
 
-Die wichtigste Rolle der Ausrüstung eines Charakters is Hilfe bei der der Beschreibung der Züge die diese machen. Ein Charakter irgendeine Waffe kann den Zug Hauen und Stechen in einem Kampf gegen einen Drachen nicht auslösen, da ein Schlag mit der bloßen Faust wohl kaum etwas gegen die zentimeterdicken Schuppen ausricheten kann. Es würde nicht als Auslöser für den Zug zählen.
+Die wichtigste Rolle der Ausrüstung eines Charakters is Hilfe bei der der Beschreibung der Züge die diese machen. Ein Charakter irgendeine Waffe kann den Zug Hauen und Stechen in einem Kampf gegen einen Drachen nicht auslösen, da ein 
+Schlag mit der bloﬂen Faust wohl kaum etwas gegen die zentimeterdicken Schuppen ausricheten kann. Es würde nicht als Auslöser für den Zug zählen.
 
-Genauso kann Ausrüstung einen Zug verhindern. Steile, vereiste Klippen zu erklettern is normaler weise der Gefahr trotzen, aber mit mit einem guten Satz Kletterausrüstung könnte man  die unmittelbare Gefahr und das drohende Unglück vermeiden, das den Zug auslösten würde.
+Genauso kann Ausrüstung einen Zug verhindern. Steile, vereiste Klippen zu erklettern is normaler weise der Gefahr trotzen, aber mit mit einem guten Satz Kletterausrüstung könnte man  die unmittelbare Gefahr und das drohende Unglück 
+vermeiden, das den Zug auslösten würde.
 
 Waffen können am wahrscheinlichsten modifizieren, welche Züge ausgelöst werden können. Ein Charakter mit einem Dolch kann ganz einfach nach den dem Goblin stechen, der an seinem Bein nagt, Hauen und Stechen auslösend, aber der Charakter mit der Hellebarde hat viel grössere Schwierigkeiten diese gegen einen so nahen Gegner einzusetzen.
 
-Objekte und Zeugs aller Art hat Etiketten. Etiketten sind Worte, um Dinge zu beschreiben. Manche Etiketten haben einen spezifischen Effekt auf die Regeln (wie etwa Schadensverminderung durch Rüstung or ein magischer Bonus auf eine bestimmte Art von Zug oder Wert). Andere Etiketten beeinflussen nur die Fiktion (so etwa das Etikett nah, welches die Länge einer Waffe beschreibt und wie nah man einem Feind kommen muss, um ihn angreifen zu können). Etiketten helfen die Handlungen der Charaktere zu beschreiben, wenn Gegenstände benutzt werden und sie geben dem SL Hinweise wie die Objekte die man benutzt schief gehen können oder Komplikationen verursachen können wenn man einen Wurf verfehlt.
+Objekte und Zeugs aller Art hat Etiketten. Etiketten sind Worte, um Dinge zu beschreiben. Manche Etiketten haben einen spezifischen Effekt auf die Regeln (wie etwa Schadensverminderung durch Rüstung or ein magischer Bonus auf eine 
+bestimmte Art von Zug oder Wert). Andere Etiketten beeinflussen nur die Fiktion (so etwa das Etikett nah, welches die Länge einer Waffe beschreibt und wie nah man einem Feind kommen muss, um ihn angreifen zu können). Etiketten helfen 
+die Handlungen der Charaktere zu beschreiben, wenn Gegenstände benutzt werden und sie geben dem SL Hinweise wie die Objekte die man benutzt schief gehen können oder Komplikationen verursachen können wenn man einen Wurf verfehlt.
 
 ### Die Auswirkungen von Zügen
 
-Die Auswirkungen von Zügen betreffen immer die fiktionale Welt, die die Charaktere bewohnen. 10+ bei Hauen und Stechen ziehen nicht bloss irgendwelche mechanischen Effekte in Spielsystem nach sich, sondern bedeutet auch, das du etwas erfolgreich angegriffen hast und ihm in irgendeiner Form Schaden zugefügt hast.
+Die Auswirkungen von Zügen betreffen immer die fiktionale Welt, die die Charaktere bewohnen. 10+ bei Hauen und Stechen ziehen nicht bloss irgendwelche mechanischen Effekte in Spielsystem nach sich, sondern bedeutet auch, das du 
+etwas erfolgreich angegriffen hast und ihm in irgendeiner Form Schaden zugefügt hast.
 
 Sobald du ausgeknobelt/bestimmt hast was die Auswirkungen eines Zuges sind, wende sie auf die Fiktion an und wende dich dich wieder der Unterhaltung zu. Komme immer wieder auf das, was im Spiel passiert zurück.
 
-Manche Züge haben sofortige mechanische Effekte, wie Schaden verursachen oder jemanden einen Bonus auf den nächsten Wurf zu geben. Diese Auswirkungen sind immer eine Wiedergabe der fiktionalen Welt, in der die Charaktere sind; gehe sicher dass die Fiktion zur Beschreibung der Auswirkungen von Zügen benutzt wird.
+Manche Züge haben sofortige mechanische Effekte, wie Schaden verursachen oder jemanden einen Bonus auf den nächsten Wurf zu geben. Diese Auswirkungen sind immer eine Wiedergabe der fiktionalen Welt, in der die Charaktere sind; gehe 
+sicher dass die Fiktion zur Beschreibung der Auswirkungen von Zügen benutzt wird.
 
-#### Manche Züge…
+#### Manche Züge...
 
-…benutzen die Formel "Schaden verursachen". Schaden verursachen heisst, dass du die Schadenswürfel deiner Klasse würfelst, manchmal addiert oder subtrahiert deine Waffen zusätzlich Schaden. Man benutzt Schadenswürfel bei jedem Angriff der vernünftigerweise den Gegner verletzen könnte. das heißt normalerweise, das du eine Waffe führst, aber auch deine Fäuste können mit dem richtigen Training oder in den richtigen Umständen Waffen sein.
+...benutzen die Formel "Schaden verursachen". Schaden verursachen heisst, dass du die Schadenswürfel deiner Klasse würfelst, manchmal addiert oder subtrahiert deine Waffen zusätzlich Schaden. Man benutzt Schadenswürfel bei jedem 
+Angriff der vernünftigerweise den Gegner verletzen könnte. das heiﬂt normalerweise, das du eine Waffe führst, aber auch deine Fäuste können mit dem richtigen Training oder in den richtigen Umständen Waffen sein.
 
-…sagen "erhalte +1 fürder/voraus". Das heißt, dass du +1 auf deinen nächsten Wurf für einen Zug (nicht für Schaden) erhältst. Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. Es könnte auch Bedingungen geben, so wie "erhalte +1 voraus für Hauen und Stechen". In diesem Fall darfst du den Bonus nur auf den nächsten Wurf auf "Hauen und Stechen" anwenden, und bei keinen anderen Zug.
+...sagen "erhalte +1 fürder/voraus". Das heiﬂt, dass du +1 auf deinen nächsten Wurf für einen Zug (nicht für Schaden) erhältst. Der Bonus kann gröﬂer als +1 sein, oder sogar ein Malus wie etwa -1. Es könnte auch Bedingungen geben, so wie 
+"erhalte +1 voraus für Hauen und Stechen". In diesem Fall darfst du den Bonus nur auf den nächsten Wurf auf "Hauen und Stechen" anwenden, und bei keinen anderen Zug.
 
-…sagen "nimm/erhalte +1 fortlaufend". das heißt, dass du +1 auf alle Würfe, die du für Züge machst, erhältst (nicht bei Schaden). Der Bonus kann größer als +1 sein, oder sogar ein Malus wie etwa -1. es könnte auch eine Bedingung geben, so wie "erhalte +1 fortlaufend auf Volley". Ein fortlaufender Bonus legt auch fest, was dazu führt, dass er endet, wie etwa "bis zu den Spruch beendest" oder "bis du in den Augen deines Gottes Buße getan hast."
+...sagen "nimm/erhalte +1 fortlaufend". das heiﬂt, dass du +1 auf alle Würfe, die du für Züge machst, erhältst (nicht bei Schaden). Der Bonus kann gröﬂer als +1 sein, oder sogar ein Malus wie etwa -1. es könnte auch eine Bedingung geben, so wie "erhalte +1 fortlaufend auf Volley". Ein fortlaufender Bonus legt auch fest, was dazu führt, dass er endet, wie etwa "bis zu den Spruch beendest" oder "bis du in den Augen deines Gottes Buﬂe getan hast."
 
-…geben dir "Handhabe". Handhabe ist eine Währung die erlaubt, zu einem späteren Zeitpunkt Entscheidungen zu machen indem du deine Handhabe ausgibst. Die Handhabe ist an den Zug gebunden, der sie dir gegeben hat, du kannst zum Beispiel weder deine Handhabe von Verteidigen für Fallenexperte ausgeben, noch andersherum.
+...geben dir "Handhabe". Handhabe ist eine Währung die erlaubt, zu einem späteren Zeitpunkt Entscheidungen zu machen indem du deine Handhabe ausgibst. Die Handhabe ist an den Zug gebunden, der sie dir gegeben hat, du kannst zum Beispiel weder deine Handhabe von Verteidigen für Fallenexperte ausgeben, noch andersherum.
 
-…stellen dich vor die Wahl. Die Wahl, die du triffst, schreibt wie alle Zugauswirkungen die Dinge vor, die in der Fiktion zusätzlich zu den mechanischen Effekten passieren. Wenn du die Entscheidung triffst, auf 10+ bei Hauen und Stechen mehr Schaden zu verursachen auf Kosten eines möglichen Gegenangriffs, so ist es genau das was deinem Charakter passiert: er hat einen Vorteil errungen, den er nutzen kann um auf der sicheren Seite zu sein oder sein Glück herauszufordern.
+...stellen dich vor die Wahl. Die Wahl, die du triffst, schreibt wie alle Zugauswirkungen die Dinge vor, die in der Fiktion zusätzlich zu den mechanischen Effekten passieren. Wenn du die Entscheidung triffst, auf 10+ bei Hauen und Stechen mehr Schaden zu verursachen auf Kosten eines möglichen Gegenangriffs, so ist es genau das was deinem Charakter passiert: er hat einen Vorteil errungen, den er nutzen kann um auf der sicheren Seite zu sein oder sein Glück herauszufordern.
 
-…geben dir eine Möglichkeit etwas über deinen Charakter und ihre Geschichte zu sagen. Wenn du *Weisheiten kundtust* kann es passieren, dass du gefragt wirst woher du dass Wissen hast, das der SL offenbart. Nimm diese Gelegenheit wahr zum Spiel beizutragen und zu zeigen wer dein Charakter wirklich ist. Beachte bloss die schon etablierten Fakten, und widerspreche nicht einem Sachverhalt, der schon beschrieben wurde.
+...geben dir eine Möglichkeit etwas über deinen Charakter und ihre Geschichte zu sagen. Wenn du *Weisheiten kundtust* kann es passieren, dass du gefragt wirst woher du dass Wissen hast, das der SL offenbart. Nimm diese Gelegenheit wahr 
+zum Spiel beizutragen und zu zeigen wer dein Charakter wirklich ist. Beachte bloss die schon etablierten Fakten, und  widerspreche nicht einem Sachverhalt, der schon beschrieben wurde.
 
-…sagen "markiere EP". Das heißt, dass du eins zu der Summe deiner Ep hinzuzählst.
+...sagen "markiere EP". Das heiﬂt, dass du eins zu der Summe deiner EP hinzuzählst.
 
 ## Verletzungen und Heilung
 
@@ -83,19 +95,22 @@ Schnitte, Prellungen und tödliche Wunden sind die üblichen Gefahren, denen sic
 
 ### TP
 
-Die TP eines Charakters sind ein Maß seines Stehvermögens, Ausdauer und Gesundheit. Mehr TP bedeuten, dass ein Charakter länger kämpfen kann und mehr Verletzungen ertragen kann bevor er sich seiner Sterblichkeit stellen muss.
+Die TP eines Charakters sind ein Maﬂ seines Stehvermögens, Ausdauer und Gesundheit. Mehr TP bedeuten, dass ein Charakter länger kämpfen kann und mehr Verletzungen ertragen kann bevor er sich seiner Sterblichkeit stellen muss.
 
 Deine Klasse verrät dir deine maximalen TP. Deine Konstitution (das Attribut, nicht der Modifikator) kommt auch ins Spiel, eine höhere Konstitution bedeutet mehr TP. Wenn sich deine Konstitution während des Spiels dauerhaft verändert, passt du auch deine TP an den veränderten Konstitutionswert an. Wenn sich deine Konstitution nicht verändert bleiben auch deine TP gleich.
 
 ### Schaden
 
-Wenn ein Charakter Schaden einstecken muss, zieht der den erhalten Schaden den aktuellen TP ab. Rüstung reduziert Schaden; wenn ein Charakter eine Rüstung hat zieht man ihren Wert vom Schaden ab. Das kann heißen, das ein Schlag komplett abgelenkt wird - das ist in Ordnung so, dafür ist Rüstung schliesslich da! Schaden kann einen Charakter nie unter 0 TP bringen.
+Wenn ein Charakter Schaden einstecken muss, zieht der den erhalten Schaden den aktuellen TP ab. Rüstung reduziert Schaden; wenn ein Charakter eine Rüstung hat zieht man ihren Wert vom Schaden ab. Das kann heiﬂen, das ein Schlag 
+komplett abgelenkt wird - das ist in Ordnung so, dafür ist Rüstung schliesslich da! Schaden kann einen Charakter nie unter 0 TP bringen.
 
 Der Schaden wird vom Angreifer ermittelt. Spieler verursachen Schaden abhängig von ihrer Klasse, der verwendeten Waffe und dem Zug, den sie gemacht haben.
 
-Wenn ein Zug bloß "Schaden verursachen" anführt so würfelt der Charakter den Schadenswürfel seiner Klasse plus alle Boni oder Abzüge von Zügen, Waffen oder Effekten. Falls ein Zug eine  Menge an Schaden festlegt, benutze diesen anstatt des Schadenswurfes der Klasse.
+Wenn ein Zug bloﬂ "Schaden verursachen" anführt so würfelt der Charakter den Schadenswürfel seiner Klasse plus alle Boni oder Abzüge von Zügen, Waffen oder Effekten. Falls ein Zug eine  Menge an Schaden festlegt, benutze diesen anstatt 
+des Schadenswurfes der Klasse.
 
-Monster würfeln mit dem Schadenswert der in ihrer Beschreibung aufgeführt wird. Verwend diesen Schaden immer wenn das Monster etwas macht, was direkt zu Schaden bei jemandem führt, selbst wenn es dabei eine andere Methode als seinen normalen Angriff einsetzt.
+Monster würfeln mit dem Schadenswert der in ihrer Beschreibung aufgeführt wird. Verwend diesen Schaden immer wenn das Monster etwas macht, was direkt zu Schaden bei jemandem führt, selbst wenn es dabei eine andere Methode als seinen 
+normalen Angriff einsetzt.
 
 Andere Ursachen von Schaden - wie etwa von einem herabfallenden Trümmerstück eines einstürzenden Turms getroffen zu werden oder in eine Fallgrube stürzen - sind dem Spielleiter basierend auf folgenden Prinzipien überlassen:
 
@@ -114,11 +129,15 @@ Verlust von Trefferpunkten ist oft nur ein Teil der Auswirkungen. Wenn die Verle
 
 #### Schaden durch mehrere Kreaturen
 
-Nur die mutigsten Monster kämpfen allein. Die meisten Kreaturen kämpfen mit jemandem an ihrer Seite, und vielleicht noch jemand zur Rückendeckung und möglicherweise noch ein Bogenschütze, um den Rückzug zu decken und so weiter. Das kann dazu führen, das mehrere Monster auf einmal Schaden austeilen.
+Nur die mutigsten Monster kämpfen allein. Die meisten Kreaturen kämpfen mit jemandem an ihrer Seite, und vielleicht noch jemand zur Rückendeckung und möglicherweise noch ein Bogenschütze, um den Rückzug zu decken und so weiter. 
+Das kann dazu führen, das mehrere Monster auf einmal Schaden austeilen.
 
-Wenn mehr als eine Kreatur auf einmal angreift, wirf die Schadenswürfel für jede der Kreaturen und nimm das höchste Resultat. Falls einige der Kreaturen verscheiden viel Schaden verursachen können, nimm den Schaden mit dem höchsten Potential von allen in den Angriff verwickelten Kreaturen und nimm das höchste Resultat.
+Wenn mehr als eine Kreatur auf einmal angreift, wirf die Schadenswürfel für jede der Kreaturen und nimm das höchste Resultat. Falls einige der Kreaturen verscheiden viel Schaden verursachen können, nimm den Schaden mit dem höchsten 
+Potential von allen in den Angriff verwickelten Kreaturen und nimm das höchste Resultat.
 
-_BSP: Ein Goblin Orkaster (d10+1 Schaden, ignoriert Rüstung) und drei Goblins (d6 Schaden) schleudern alle ihre jeweiligen Waffen - eine Kugel magischer Säure für den Orkaster, Speere für den Rest - auf Lux, die ihre Barrikade angreift. Ich würfle den den höchsten Schaden, d10+1 ignoriert Rüstung, viermal: einmal für den orkaster und je einmal für die anderen Goblins. Ich nehme das höchste Resultat, eine 8, und sage Lux, dass sie 9 Schaden, der ihre Rüstung ignoriert, nimmt als die Säure durch die Risse/Spalten, die die Speere hinterlassen haben dringt._
+_BSP: Ein Goblin Orkaster (d10+1 Schaden, ignoriert Rüstung) und drei Goblins (d6 Schaden) schleudern alle ihre jeweiligen Waffen - eine Kugel magischer Säure für den Orkaster, Speere für den Rest - auf Lux, die ihre Barrikade angreift. 
+Ich würfle den den höchsten Schaden, d10+1 ignoriert Rüstung, viermal: einmal für den orkaster und je einmal für die anderen Goblins. Ich nehme das höchste Resultat, eine 8, und sage Lux, dass sie 9 Schaden, der ihre Rüstung ignoriert, 
+nimmt als die Säure durch die Risse/Spalten, die die Speere hinterlassen haben dringt._
 
 #### Betäubungsschaden
 
@@ -127,9 +146,10 @@ Betäubungsschaden ist nicht-tödlicher Schaden. ein SC, der Betäubungsschaden 
 
 #### Zusätzlicher und Verminderter Schaden
 
-Wenn ein Zug dir sagt, dass du zusätzlichen Schaden hinzufügen sollst, addiere diesen Schaden zu dem, den du mit den Schadenwürfeln ermittelt hast. Falls er sagt, Würfel hinzuzufügen (etwa "+1d4 Schaden"), würfelst du den zusätzlichen Würfel und zählt das Ergebnis zum Resultat hinzu. 
+Wenn ein Zug dir sagt, dass du zusätzlichen Schaden hinzufügen sollst, addiere diesen Schaden zu dem, den du mit den Schadenwürfeln ermittelt hast. Falls er sagt, Würfel hinzuzufügen (etwa "+1d4 Schaden"), würfelst du den zusätzlichen 
+Würfel und zählt das Ergebnis zum Resultat hinzu. 
 
-Das gleiche gilt bei vermindertem Schaden: du ziehst die Zahl vom gewürfelten Ergebnis ab. Wenn du einen Würfel abziehen sollst (etwa "-1w6 Schaden") ziehst du das Resultat dieses Würfels von der ursprünglichen Summe ab. SChaden hat niemals einen negativen Wert - 0 Schaden ist das Minimum.
+Das gleiche gilt bei vermindertem Schaden: du ziehst die Zahl vom gewürfelten Ergebnis ab. Wenn du einen Würfel abziehen sollst (etwa "-1w6 Schaden") ziehst du das Resultat dieses Würfels von der ursprünglichen Summe ab. Schaden hat niemals einen negativen Wert - 0 Schaden ist das Minimum.
 
 #### Das Beste und Schlechteste
 
@@ -147,9 +167,9 @@ Unabhängig von der Ursache der Heilung können die sich die TP eines Charakters
 
 ### Tod
 
-Der Tod lauert am Rande jeder Schlacht. Ein Charakter, der auf 0 TP reduziert worden ist tut sofort seinen letzten Atemzug. Der Tod holt den Gemeinen wie den König gleichermaßen - kein Attribut wird auf den wurf für den letzten Atemzug anwendet. 
+Der Tod lauert am Rande jeder Schlacht. Ein Charakter, der auf 0 TP reduziert worden ist tut sofort seinen letzten Atemzug. Der Tod holt den Gemeinen wie den König gleichermaﬂen - kein Attribut wird auf den wurf für den letzten Atemzug anwendet. 
 
-Niemand weiß, was jenseits der Schwarzen Tore des Todes liegt, aber man sagt das viele Geheimnisse der sterblichen Welt im Reich des Todes offenbart werden. Wenn du stirbst, kannst du sie vielleicht erfahren.
+Niemand weiﬂ, was jenseits der Schwarzen Tore des Todes liegt, aber man sagt das viele Geheimnisse der sterblichen Welt im Reich des Todes offenbart werden. Wenn du stirbst, kannst du sie vielleicht erfahren.
 
 Der Tod bietet manchen ein Handel an, manche einfach andere teuer. der Tod ist launenhaft und mag einen zukünftigen Gefallen oder einen Tribut fordern. Er mag ein Opfer verlangen, oder um etwas Seltsames oder scheinbar Harmloses bitten. Niemand kann voraussagen, was dem Tod in den Sinn kommen wird.  
 
@@ -157,23 +177,23 @@ Abhängig von Ausgang des letzen Atemzugs mag sich der Charakter stabilisieren. 
 
 #### Nach dem Tode
 
-Es ist nicht leicht Abenteurer zu sein - es heißt kalte Nächte in der Wildnis, scharfe Klingen und Monster. Früher oder später wird jemand seinen Geist aufgeben und den langen Marsch zu den schwarzen Toren antreten. Das muss nicht das ende seiner Geschichte sein. Der Tod ist, auf seine eigene Weise, nur eine Neue Herausforderung, die es zu meistern gilt. Auch tote Abenteurer können wieder auf(er)stehen. 
+Es ist nicht leicht Abenteurer zu sein - es heiﬂt kalte Nächte in der Wildnis, scharfe Klingen und Monster. Früher oder später wird jemand seinen Geist aufgeben und den langen Marsch zu den schwarzen Toren antreten. Das muss nicht das Ende seiner Geschichte sein. Der Tod ist, auf seine eigene Weise, nur eine Neue Herausforderung, die es zu meistern gilt. Auch tote Abenteurer können wieder auf(er)stehen. 
 
 Falls dein Charakter stirbt, kannst du den SL und die anderen darum bitten, dich wieder zu beleben zu lassen. Der SL wird dir sagen, was es kosten wird, deinen armen, toten Charakter zurück in Leben zu holen. Wenn du die Bedingungen des Spielleiters erfüllst, kehrt dein Charakter ins Leben zurück. Der Zauber Wiederauferstehung ist ein Spezialfall dieser Regelung: die Magie macht erleichtert das Wiederbeleben von Kameraden, aber der SL hat trotzdem ein Mitspracherecht.
 
 Wie auch immer die Aussuchten auf Wiederbelebung sind, mach fürs erste einen neuen Charakter. Vielleicht wird ein Mietling ein vollwertiger Abenteurer, der nun an der eigentlichen Handlung teilnimmt und sich so einen ganzen Anteil verdient. Vielleicht finden die Charaktere der Gruppe einen neuen Freund in einem Anwesen/Weiler/Ansiedlung, der bereit ist mit ihnen zu gehen. Vielleicht schwört jemand aus der Familie deines Charakters Rache für seinen Tod und geift nun zu Waffe oder Zauber, um Recht und Ordnung wiederherzustellen. Erstelle in  jedem Falle deinen Charakter so wie du einen auf Stufe 1 machen würdest. Falls dein ursprünglicher Charakter in Leben zurückkehrt, kannst du sowohl den einen oder den anderen spielen und zwischen beiden wechseln (solange das Sinn ergibt).
 
-Wenn du als SL den Spielern mitteilst, was zu tun ist, um ihren gefallen Kameraden zurück zu bringen, brauchst du dich nicht verpflichtet zu fühlen, den derzeitigen Fluss des Spieles zu unterbrechen. Verwebe es mit dem, was du über die Welt weisst. Es ist eine gute Gelegenheit ein Element einführen, das du schon lange vorzeigen wollest (lol dt satz muss ganz anders.) Fühle dich auch nicht verpflichtet, dass es eine grosse und epische Queste werden muss.  Wenn der Charakter durch die pike eines Goblins umgekommen ist, ist vielleicht nur ein umständlicher weg nach hause und ein Spende von ein paar tausend Goldstücken an den örtlichen Tempel nötig. Beachte die Auswirkungen dieses wohltätigen Aktes und wie er die Welt betreffen/in eingeifen könnte. Merke: der Tod vergisst nie, wenn seinem Reich eine Seele geraubt/vorenthalten wird.
+Wenn du als SL den Spielern mitteilst, was zu tun ist, um ihren gefallen Kameraden zurück zu bringen, brauchst du dich nicht verpflichtet zu fühlen, den derzeitigen Fluss des Spieles zu unterbrechen. Verwebe es mit dem, was du über die Welt weisst. Es ist eine gute Gelegenheit ein Element einführen, das du schon lange vorführen wollest Fühle dich auch nicht verpflichtet, dass es eine grosse und epische müsste werden muss.  Wenn der Charakter durch die pike eines Goblins umgekommen ist, ist vielleicht nur ein umständlicher weg nach hause und ein Spende von ein paar tausend Goldstücken an den örtlichen Tempel nötig. Beachte die Auswirkungen dieses wohltätigen Aktes und wie er die Welt betreffen/in eingeifen könnte. Merke: der Tod vergisst nie, wenn seinem Reich eine Seele geraubt/vorenthalten wird.
 
 ### Schwächungen/Beeinträchtigungen/Behinderungen
 
 TP zu verlieren ist eine abstrakte Sache, es könnte Erschöpfung, Prellungen, schnitte usw. bedeuten. Einige wunden gehen tiefer. Das sind Beeinträchtigungen.
 
-**Schwach(STK):** Du kannst keine kraft ausüben. Vielleicht ist es nur Mündigkeit und Verletzungen, oder deine stärke wurde durch Magie entzogen.
+**Schwach(STK):** Du kannst keine kraft ausüben. Vielleicht ist es nur Mündigkeit und Verletzungen, oder deine Stärke wurde durch Magie entzogen.
 
-**wackelig (GES):** du bist unsicher auf den beinen und hast ein zittern in den Händen.
+**wackelig (GES):** du bist unsicher auf den Beinen und hast ein Zittern in den Händen.
 
-**unpäßlich/elend (KON):** irgend etwas stimmt nicht mit dir. Vielleicht hast du eine Krankheit oder eine auszehrendenes Leiden. Vielleicht hast du aber auch nur gestern Abend zuviel Ale getrunken, und jetzt rächt es sich.
+**unpäßlich/elend (KON):** irgend etwas stimmt nicht mit dir. Vielleicht hast du eine diease oder wasting illness. Vielleicht hast du aber auch nur gestern Abend zuviel Ale getrunken, und jetzt rächt es sich.
 
 **betäubt (INT):** Dieser letzte schlag auf den kopf hat eine schraube gelöst. Gehirn nicht so gut gehen.
 
@@ -187,259 +207,133 @@ Jede Beeinträchtugung kann dich nur einmal zur Zeit befallen. Wenn du schon ele
 
 Beeinträchtigungen sind schwerer zu heilen als TP. Klar gibt es hochstufige Magie, die es fertigbringt, aber die beste Vorgehensweise ist sich an einem sicheren Ort ein paar Tage in einem warmen, weichen Bett zu verbringen. Beeintächtigungen sind beschreibend und normativ: falls etwas passiert, was die Beeinträchtigung aufhebt, so ist sie weg.
 
-Beeinträchtigungen ersetzten keine Beschreibungen oder die hergstellte Fiktion. Wenn jemand einen Arm verliert heißt das nicht, dass er schwach ist, es bedeutet, dass er einen Arm weniger hat. LAss dich nich durch Beeinträchtigungen einschränken. Eine bestimmte Kankheit kann jeden Effekt haben, den du dir ausdenken kannst. Unpäßlich ist nur ein Kürzel für ein anonymes Fieber, dass du dir von einer verdreckten Ratte eingefangen hast.
+Beeinträchtigungen ersetzten keine Beschreibungen oder die hergstellte Fiktion. Wenn jemand einen Arm verliert heißt das nicht, dass er schwach ist, es bedeutet, dass er einen Arm weniger hat. LAss dich nich durch Beeinträchtigungen einschränken. Eine bestimmte Kankheit kann jeden Effekt haben, den du dir ausdenken kannst. Unpäßlich ist nur ein Kürzel für ein anonymes Fieber, dass du dir von einer dreckigen Ratte eingefangen hast.
 
-## Magic
+## Magie
 
-Dungeon World is a fantastic place: there’s more to it than mud, blood, and
-ale in the tavern. Fire and wind conjured from the pure elements. Prayers for
-health, might, and divine retribution. “Magic” is the name given to those
-abilities not derived from the strength of man and beast but from forces
-beyond.
+DW ist ein fantastischer Ort: es ist viel mehr dran als Schlamm, Blut und ein paar Bier in einer Kneipe. Feuer und Wind erzeugt aus den reinen Elementen. Gebete um Heilung, Stärke und göttliche Rache. Die Fähigkeiten, die nicht von der Stärke eines Mannes oder Tieres abgeleitet sind sondern von jeseiteigen Mächten, werden "Magie" genannt.
 
-Magic means many things. The druid’s ability to take the shape of an animal is
-magic, as are the practiced effects of the wizard and the divine blessings of
-the cleric. Any ability that goes beyond the physically possible is magical.
+Magie meint viele Dinge. Die Fähigkeit eines Druiden, die Gestalt eines Tieres anzunehemen, ist genauso Magie wie die eingeübten Effekte eines Zauberers und die göttlichen Segnungen des Priesters. Jede Fähigkeit die über das physisch Mögliche hinausgeht ist magisch.
 
-### Spells
+### Zauber
 
-Some classes, like the cleric and the wizard have access to spells: specific
-magical effects that are the benefit of divine servitude or severe study. Each
-spell has a name, tags, a level, and an effect.
+Manche Klassen wie der Priester und der Zauberer können Zauber wirken: bestimmte magische Effekte, erworben durch Dienst an Göttern oder ernsthafte Studien. Jeder Spruch hat einen Namen, Etiketten, eine Stufe und einen Effekt.
 
-The basic flow of magic is to know, prepare, cast, and forget a spell.
+Der grundsätzliche Fluss ist einen Spruch zu lernen, zu vorbeiten, anzuwenden, und zu vergessen.
 
-Known spells are those a spellcaster has mastered enough to prepare. The
-cleric knows all cleric spells of their level or lower, including their rotes.
-The wizard starts knowing their cantrips and three 1st level spells. When the
-wizard gains a level they learn a new spell. The wizard stores their known
-spells in their spellbook.
+Bekannte Zauber sind die, die ein Spruchanwender hinreichend gemeistert hat, um sie vorzubereiten. Der Priester kennt alle Zauber seiner und aller darunterliegenden Stufen, einschliesslich ihrer Routinen. Ein Zauber kennt am Anfang alle Zaubertricks und drei Zauber der ersten Stufe. Wenn ein Zauberer eine neue Stufe erreicht, lernt er einen neuen Zauber. Zauberer speichern ihre bekannten Zauber in einem Spruchbuch.
 
-Even if a spellcaster knows a spell, they must have it prepared before they
-can cast it. With some time and concentration, as described in the Commune and
-Prepare moves, the spellcaster may choose known spells whose total levels are
-less than or equal to the caster’s level plus 1 to prepare. The wizard always
-prepares their cantrips; the cleric always prepares their rotes. A prepared
-spell is ready to be cast.
+Selbst wenn Spruchanwender einen Zauber kennen, muss sie ihn vorbereiten bevor sie ihn wirken können. Mit etwas Zeit und Konzentration, wie in den Zügen Zwiesprache und Vorbereiten ausgeführt, darf ein Spruchanwender bekannte Zaubern eine Anzahl zum Vorbereiten auswählen, deren gesamte Stufen gleich oder kleiner als die Stufe des Charakters plus 1 sind. Der Zauber bereiet immer seine Tricks vor; der Priester immer seine Routinen. Ein vorbereiteter Zauber sthet zum Wirken zur Verfügung. 
 
-Casting a spell involves calling on a deity, chanting, waving ones hands,
-invoking mystical forces, and so on. To cast a spell you will usually make the
-cast a spell move. On a 10+ the spell takes effect, on a 7–9 the caster finds
-themself in trouble and must make a choice, but the spell is still cast. Some
-spells are ongoing—once they’re cast they continue to have effect until
-something ends it.
+Einen Zauber zu wirken beinhaltet die Anrufung einer Gottheit, Gesänge, Handbewegungen, mystische Kräfte zu aktivieren und so weiter. Um einen anzuwenden macht du gewöhnlich den einen Zauber wirken Zug. Bei 10+ treten die Auswirkungen des Zaubers ein, bei 7-9 gibt es ein Problem und musst eine Wahl treffen aber Zauber ist trotzdem erfolgreich gewirkt. Manche Sprüche haben eine fortwährende Wirkung - wenn sie einmal gewirkt sind, so dauert ihr Effekt an bis etwas ihn beendet.
 
-One option on a 7–9 result is to have the spell revoked or forgotten. A spell
-that is revoked or forgotten is still known, but no longer prepared, and
-therefore no longer castable. When the caster next Prepares or Communes they
-may choose the same spell again.
+Eine Möglichkeit bei einem Ergebnis von 7-9 ist, den Spruch zu vergessen oder dass er entzogen wird. Ein Spruch, der entzogen oder vergessen wird ist immer noch bekannt aber nicht mehr vorbereitet und daher nicht mehr anwendbar. Wenn ein Spruchanwender das nächste mal Vorbereitet oder Zwieprache hält,kann den den selben Zuaber wieder wählen.  
 
-## Character Change
+## Charakterentwicklung
 
-Dungeon World is ever-changing. The characters change, too. As their
-adventures progress, player characters gain experience (XP), which lets them
-level up. This prepares them for greater danger, bigger adventures, and
-mightier deeds.
+DW verändert sich ständig. Auch die Charaktere entwickeln sich. Mit den Fortschritt ihrer Abenteuer erhalten die Charaktere Erfahrung (EP), was ihnen Stufenaufstieg ermöglicht. Dies bereitet sie auf gröﬂere Gefahren und Taten vor. 
 
-Advancement, like everything else in Dungeon World, is both prescriptive and
-descriptive. Prescriptive means that when a player changes their character
-sheet the character changes in the fiction. Descriptive means that when the
-character changes in the fiction the player should change the character sheet
-to match.
+Wie alles andere in DW ist auch der Aufstieg sowohl normativ als auch beschreibend. Normativ bedeutet, das wenn ein Spieler seinen Charakterzettel ändert, verändert sich auch auch der Charakter in der Geschichte. Beschreibend heiﬂt dass wenn sich der Charakter in der Fiktion verändert, sollte der Spieler auch den Charakterzettel anpassen. 
 
-This isn’t a benefit or detriment to the players or the GM; it’s not an excuse
-to gain more powers or take them away. It’s just a reflection of life in
-Dungeon World.
+Die ist weder ein Vor- noch ein Nachteil für Spieler oder SL; es ist keine Ausrede, um mehr Kräfte zu bekommen oder sie weg zu nehmen. Es ist bloss wie Dungeon World funktioniert.
 
-Avon, despite being a wizard, has risen to the notice of Lenoral, the deity of
-arcane knowledge. After being blessed by an avatar of Lenoral and saying his
-vows in the church, Avon is under the deity’s watch. He can fulfill Petitions
-and gain boons like a cleric.
+Avon, ein Zauberer, hat die Aufmerksamkeit von Lenoral erregt, der Gottheit des arkanen Wissens. Nachdem er von einem Avatar von Lenoral gesegnet wurde und in der Kirche seine Schwüre abgelegt hat, seht Avon unter der Beobachtung der Gottheit. Er kann nun Gesuche machen und die die Gunst wie ein Priester erhalten. 
 
-Gregor offers his signature weapon, an axe whose green steel is tempered in
-orc blood, as a desperate bargain to save King Authen from eternal damnation.
-Without his axe he gets none of the benefits of his signature weapon. Should
-he recover it he’ll have access to its benefits again.
+Gregor bietet seine Persönliche/erkennungs Waffe, deren grüner Stahl mit Orkblut gehärtet wurde, in einem verzweifeltem Handel um König Auten vor ewiger Verdammnis zu retten an. Ohne seine Axt erhält er keine der Vorteile von SignaturWaffe. Sollte er sie zurückerhalten, hat er wieder Zugang zu den Vorteilen.
 
-Descriptive changes only happen when the character has clearly gained access
-to an ability. It’s not up to any one player to decide this—if you think a
-character qualifies for a new ability, discuss it as a group.
+Veränderungen in der Beschreibung finden nur statt, falls der Charakter ganz klar eine Fähigkeit erhalten hat. Es nicht an einem einzelen Spieler dies zu entscheiden - wenn ihr denkt dass ein Charakter für eine Fähigkeit in Frage kommt, sollte die ganze Gruppe das diskutieren.
 
-### Level Up
+### Aufstufen/Stufenaufstieg
 
-As you play Dungeon World, you’ll be doing three things most of all:
-exploring, fighting dangerous foes, and gathering treasure. For each of these
-things you’ll be rewarded XP at the end of the session. Acting according to
-your alignment and fulfilling the conditions of your alignment moves will
-grant you XP at the end of each session as well. If you resolve a bond and
-create a new one, you’ll gain XP, too. Any time you roll a 6- you get XP right
-away. The GM may have special conditions that you can fulfill to earn XP or
-might change the core ones to reflect the world. They’ll let you know before
-you play.
+Während ihr DW spielt, werdet ihr drei Dinge mehr alle anderen machen: Erforschen, mit gefährlichen Gegnern kämpfen und Schätze sammeln. Jede dieser Sachen wird mit EP am ende einer Sitzung belohnt. Sich entsprechend seiner Einstellung zu verhalten und die Bedingungen der Einstellungszüge zu erfüllen gibt auch EP am Ende der Sitzung. Wenn du eine Bindung überwindest/klärst und eine neue schafftst erhälst du auch EP. Jedesmal wenn du 6- erwürfelst bekommst du sofort EP. Der SL mag eigene Bedingungen festgelegt haben. Wenn du sie erfüllst verdienst du dir EP oder kannst die Grundbedingungen verändern, um die Welt wiederzugeben. Er wird es dir vor Spielbeginn mitteilen.
 
-When your characters have safety and a chance to rest, they’ll be able to make
-the Level Up move to level up and gain new moves.
+Wenn die Charaktere in Sicherheit sind unfd Gelegenheit zur Rast haben, sind sie in der Lage den Aufsteigen-Zug zu machen und ein paar Zuge dazu zu bekommen.
 
-#### Multiclass Moves
+#### Multiklassenzüge
 
-The multiclass moves allow you to gain moves from another class. You get to
-choose any move of your level or lower. For the purpose of multiclassing, any
-starting class moves that depend on each other count as one move—the wizard's
-cast a spell, spellbook, and prepare spells for example. If a move from
-another class refers to your level, count your levels from the level where you
-first gained a move from that class.
+Multiklassenzüge erlauben euch Züge einer anderen Klasse zu nehmen. Du darfst jeden Zug deiner Stufe oder einer niedrigern auswählen. Für die Zwecken des multiklassens, zählen alle Züge, die voneinander abhängen, als ein einziger Zug, so zum Beispiel die Zaubererzüge einen Spruch machen, Spruchbuch und Spruch vorbereiten. Wenn ein Zug einer anderen Klasse sich auf deine Stufe bezieht, zähle von der Stufe an, in der du den Zug von dieser Klasse erhalten hast.
 
-#### Requires and Replaces
+#### Erfordert und Ersetzt
 
-Some moves that you gain at higher levels depend on other moves. If another
-move is listed along with the word Requires or Replaces you can only gain the
-new move if you have the listed move.
+Manche züge, die du in höheren Stufen erhälst hängen von anderen zügen ab. Falls ein anderer Zug zusammen mit den Wort erfordert oder ersetzt aufgeführt ist, kannst du den neuen Zug nur nehmen, wenn du den aufgeführten Zug schon hast.
 
-A move that requires another move can only be taken if you have the move it
-requires already. You then have both moves and they both apply.
+Bei einem Zug mit "erfordert" hast du dann beide Züge und beide zählen.
 
-A move that replaces another move can only be taken if you have the move it
-replaces already. You lose access to the replaced move and just have the new
-one. The new move will usually include all the benefits of the replaced one:
-maybe you replace a move that gives you 1 armor with one that gives you 2
-armor instead.
+Bei einem Zug der einen anderen erstezt, verlierst du den ersetzten Zug und hast nur den neuen. Der Neue wird meistens die Vorteile des Ersetzten mit beinhalten: vielleicht ersetzt du einen Zug, der dir Rüstung 1 gibt mit einem, der statt dessen Rüstung 2 gibt.
 
-#### Beyond 10th Level
+#### Jenseits der 10. Stufe
 
-Once you’ve reached 10th level things change a little. When you have enough XP
-to go to 11th level instead you choose one of these:
+Wenn du Stufe 10 erreicht hast ändern sich die Dingeein wenig. Wenn du genung EP hast, um Stufe 11 zu erreichen, wähle eines von diesen:
 
-  * Retire to safety
-  * Take on an apprentice
-  * Change entirely to a new class
+*Setze dich zur Ruhe
+*Nimm einen Lehrling an
+*wechsle zu einer neuen Klasse
 
-If you retire you create a new character to play instead and work with the GM
-to establish your place in the world. If you take on an apprentice you play a
-new character (the apprentice) alongside your current character, who stops
-gaining XP. Changing classes means keeping your ability scores, race, HP, and
-whatever moves you and the GM agree are core to who your character is. You
-lose all other class moves, replacing them with the starting moves of your new
-class.
+Wenn du dich zur Ruhe setzt, erschaffe einen neuen Charakter und arbeite mit dem Sl zusammen, um ihn der Welt zu etablieren. Wenn du einen Lehrling annimmst, spielst du den neuen Charakter (den Lehrling) zusammen mit dem derzeitgen Charakter, der keine weitern EP mehr erhält. Die Klasse zu wechseln bedeutet, dass du deine Attributswerte, Rasse, TP und die Züge behälst, bei denen du und der SL  übereinstimmen, das sie zum Kern, der deinen Charakter ausmacht gehören. Du verlierst alle anderen Züge und ersetzt sie durch sie durch die Anfangszüge deiner neuen Klasse.
 
-## Bonds
+## Bindungen
 
-Bonds are what make you a party of adventurers, not just a random assortment
-of people. They’re the feelings, thoughts, and shared history that tie you
-together. You will always have at least one bond, and you’ll often have more.
+Bindungen machen was aus eurer Gruppe von Abenteurern mehr als eine zufällige Ansammlung von Leuten. Sie sind eure Gefühle, Gedanken und gemeinsame Geschichte, die euch aneinander binden. Du wirst immer mindestens eine Bindung haben, und oft auch mehre.
 
-Each bond is a simple statement that relates your character to another player
-character. Your class gives you a few to start with, you’ll replace your
-starting bonds and gain new ones through play.
+Jede Bindung ist eine einfache Aussage, die deinen Charakter mit dem eines anderen Spieler in Beziehung setzt. Deine Klasse schlägt ein paar für den Anfang vor, während des Spielverlaufes wirst du deine Anfangsbindingen ersetzten und neue eingehen.
 
-### Resolving Bonds
+### Bindungen (auf)lösen
 
-At the end of each session you may resolve one bond. Resolution of a bond
-depends on both you and the player of the character you share the bond with:
-you suggest that the bond has been resolved and, if they agree, it is. When
-you resolve a bond, you get to mark XP.
+Am Ende jeder Sitzung darfst du eine Bindung auflösen. Die Auflösung einer Bindung hängt sowohl von dir als auch dem Spieler des Charakters mit dem deiner eine Bindung teilt ab: du schlägst vor, dass die Bindung zu einer Lösung geführt hat, und falls der andere Spieler zustimmt, ist die Bindung gelöst. Wenn du eine Bindung auflöst, darfst du EP markieren.
 
-A bond is resolved when it no longer describes how you relate to that person.
-That may be because circumstances have changed—Thelian used to have your back
-but after he abandoned you to the goblins, you’re not so sure. Or it could be
-because that’s no longer a question—you guided Wesley before and he owed you,
-but he paid that debt when he saved your life with a well-timed spell. Any
-time you look at a bond and think “that’s not a big factor in how we relate
-anymore” the bond is at a good place to resolve.
+Eine Bindung ist gelöst wenn sie nicht mehr beschreibt, wie die Beziehung zu der nämlichen Person aussieht. Das kann passieren, wenn sich die Umstände geändert haben " Thelian hat dir bisher den Rücken freigehalten, aber nachdem er dich bei den Golins zurückgelassen hat, bist du nicht mehr so sicher. Oder etwas ist nicht mehr offen " du hast Wesley bisher immer geleitet und er schuldete dir was, aber nachdem er dir das Leben mit einem Zauber zur rechten Zeit gerettet hat, nicht mehr. Immer wenn du dir die Bindung in Erinnerung rufst und feststellst, "das ist kein wichtiger Faktor mehr in unserer Beziehung" ist das ein guter Zeitpunkt, die Bindung aufzulösen.
 
-If you have a blank bond left over from character creation you can assign a
-name to it or write a new bond in its place whenever you like. You don’t get
-an XP for doing so, but you do get more defined bonds to resolve in the
-future.
+Wenn du eine unausgefüllte Bindung von der Charaktererschaffung über hast, kannst du jederzeit einen Namen hineinschreiben oder statt dieser eine neue Bindung hinschreien. Du bekommst keine EP dafür, hast dann aber mehr definierte Bindungen, um sie dann in der Zukunft aufzulösen 
 
-### Writing New Bonds
+### Neue Bindungen schreiben
 
-You write a new bond whenever you resolve an old one. Your new bond may be
-with the same character, but it doesn’t have to be.
+Du schreibst eine neue Binding immer wenn du eine alte auflöst. Die neue Bindung kann zu dem gleichen Charakter sein, muss sie abr nicht. Wenn du eine neue Bindung schreibst wähle einen anderen Charakter. Nimm etwas, was in der letzten Sitzung  relevant war. Vielleicht einen Ort zu dem ihr gemeinsam gereist seid oder einen Schatz den ihr gefunden habt. Wähle einen Gedanken oder eine Überzeugung deines Charakters, die die beiden verbindet und eine Hamdlung, die du deswegen unternehemn möchstest. Das Ergebnis sieht etwa so aus:
 
-When you write a new bond choose another character. Pick something relevant to
-the last session—maybe a place you traveled together or a treasure you
-discovered. Choose a thought or belief your character holds that ties the two
-together and an action, something you’re going to do about it. You’ll end up
-with something like this:
+_Mouse schnelle Reaktion hat mich vor dem Weiﬂen Drachen gerettet. Ich schulde ihr einen Gefallen.
 
-Mouse’s quick thinking saved me from the white dragon we faced. I owe her a
-boon.
+Avon hat sich Xax'takars Gewölben as Feigling erwiesen. Er ist eine gefährlich Bürde und muss im Auge behalten werden.
 
-Avon proved himself a coward in the dungeons of Xax’takar. He is a dangerous
-liability to the party and must be watched.
+Valerias Freundlichkeit zu den Gnomen des Tales hat mein Herz bewegt. Ich werde ihr beweisen, dass ich nicht der kaltschnäutzige Unmensch bin für den sie mich hält.
 
-Valeria’s kindness to the Gnomes of the Vale has swayed my heart, I will prove
-to her I am not the callous fiend she thinks I am.
+Xotoq hat die flüsternde Knochenaxt durch Betrug für sich gewonnen! Ich schwöre sie wird mein sein.
 
-Xotoq won the Bone-and-Whispers Axe through trickery! It will be mine, I swear
-it.
+Diese neuen Bindungen funktioniren ganz genau so wie die alten " nutze sie, löse sie auf und ersetzte sie.
 
-These new bonds are just like the old ones—use them, resolve them, replace
-them.
+## Einstellungen
 
-## Alignment
+Die Einstellung gibt teilweise wieder, wie dein Charakter denkt und ist sein moralischer Kompass. Für den Charakter kann das ein ethisches Ideal, religöse Vorschriften oder auch nur ein Bauchgefühl bedeuten. Sie stellt dar was dein Charakter sein möchte und kann ihn leiten, wen er nicht sicher ist, was er als nächstes tun sollte (Was würde ein pirat tun?). Mache Charaktere tragen ihre Einstellung stolz vor sich her, andere verbergen sie. Ein Charakter wir wahrscheinlich nicht sagen: "Ich bin böse", sondern "Ich komme nunmal als erstes". Das ist gut und richtig für den Charakter, aber die Welt weiﬂ es besser. Tief drinnen ist das ideal selbst verborgen, das die Person werden möchte " es ist dieser mystische Kern, der die Zauber und Fähigkeiten, die Einstellungen entdecken können. Jedes empfindungsfähige Wesen in DW hat eine Einstellung, ob nun Elf, Mensch oder andere, seltamere Dinge seien.
 
-Alignment is your character’s way of thinking and moral compass. For the
-character, this can be an ethical ideal, religious strictures, or maybe just a
-gut instinct. It reflects the things your character might aspire to be and can
-guide you when you’re not sure what to do next. Some characters might proudly
-proclaim their alignment while others might hide it away. A character might
-not say, “I’m an evil person,” but may instead say, “I put myself first.”
-That’s all well and good for a character, but the world knows otherwise.
-Buried deep down inside is the ideal self a person wants to become—it is this
-mystic core that certain spells and abilities tap into when detecting
-someone’s alignment. Every sentient creature in Dungeon World bears an
-alignment, be they an elf, a human, or some other, stranger thing.
+Die Einstellungen sind Gut, Gestzlich, Neutral, Chaotisch und Böse. Jede stellt ein anderes Ziel dar, um ein je anderer Type von von Person zu sein.
 
-The alignments are Good, Lawful, Neutral, Chaotic, and Evil. Each one shows an
-aspiration to be a different type of person.
+Gesetzliche Wesen strebn danach der Welt eine Ordnung aufzuzwingen, entweder für ihren eigene vorteil, oder den von anderen. Chaotische Wesen begrüßen veränderung und idealisiren den unordentlichen Zustand der Welt, und schätzen Freiheit mehr als andere. Gute Wesen streben selbstlos nach dem Wohl anderer. Böse Wesen setzen sich selbst an die erste stelle auf kosten anderer.
 
-Lawful creatures aspire to impose order on the world, either for their own
-benefit or for that of others. Chaotic creatures embrace change and idealize
-the messy reality of the world, prizing freedom above all else. Good creatures
-seek to put others before themselves. Evil creatures put themselves first at
-the expense of others.
+Neutrale Wesen schützen ihre eigenen interessen, solange dadurch niemand gefährdet wird. Neutrale Charaktere sind damit zufrieden ihr eigenes Leben zu leben und lassen andere das gleiche tun.
 
-A Neutral creature looks out for itself so long as that doesn’t jeopardize
-someone else’s well-being. Neutral characters are content to live their lives
-and pursue their own goals and let others do the same.
+Die meisten Wesen sind neutral. Sie haben keine Freude daran, anderen weh zu tun, werden es aber tun, wenn es die Situation in ihren Augen erfordert. Diejenigen die einem Ideal folgen - sei es Gesetz oder Chaos, Gut oder Böse - sind schwerer zu finden. 
 
-Most creatures are Neutral. They take no particular pleasure in harming
-others, but will do it if it is justified by their situation. Those that put
-an ideal—be it Law, Chaos, Good, or Evil—above themselves are harder to find.
+Auch zwei Wesen mit der gleichen Einstellung können in Konflikt geraten. Danach zu streben, anderen zu helfen verleiht keine Unfehlbarkeit, zwei gute Wesen mögen sich bis aufs Blut über ihre ansichten darüber bekämpfen, wie man das rechte tut.
 
-Even two creatures of the same alignment can come into conflict. Aspiring to
-help others does not grant infallibility, two Good creatures may fight and die
-over two different views of how to do right.
+### Einstellungen ändern
 
-### Changing Alignment
+Die Einstellung kann und wird sich ändern. Normalerweise entsteht eine solche Änderung als eine graduelle Bewegung auf einen entscheidenden Moment hin. Immer wenn sich die Weltsicht eines Charakters grundsätzlich geändert hat, kann er eine neue Einstellung wählen. Der Spieler muss einen Grund für die Änderung haben, den er den anderen Spielern erklären kann.
 
-Alignment can, and will, change. Usually such a change comes about as a
-gradual move toward a decisive moment. Any time a character’s view of the
-world has fundamentally shifted they can chose a new alignment. The player
-must have a reason for the change which they can explain to the other players.
+In manchen Fällen darf eine Spielercharakter einen Einstellungszug wechseln während er seine Einstellung behält. Das gibt gibt eine kleine verschiebung wieder, eine in den Prioritäten statt eine völlige Verlagerung des Denkens. Man wählt einfach einen neuen Zug für die selbe Einstellung aus der folgenden Liste aus und merkt an, warum der Charakter nun dies als wichtig ansieht. 
 
-In some cases a player character may switch alignment moves while still
-keeping the same alignment. This reflects a smaller shift, one of priority
-instead of a wholesale shift in thinking. They simply choose a new move for
-the same alignment from below and mention why their character now sees this as
-important.
+#### Gesetzlich
 
-#### Lawful
+  * der buchstabe des Gesetzes ist wichtiger als der Geist
+  * ein wichtiges Versprechen halten
+  * jemanden zur Rechensachft ziehen
+  * Ehre statt persönlichen Gewinn wählen
+  * einen Schatz seinem rechtmäßigen Besitzer zurück erstatten
 
-  * Uphold the letter of the law over the spirit
-  * Fulfill a promise of import
-  * Bring someone to justice
-  * Choose honor over personal gain
-  * Return treasure to its rightful owner
+#### Gut
 
-#### Good
-
-  * Ignore danger to aid another
-  * Lead others into righteous battle
-  * Give up powers or riches for the greater good
-  * Reveal a dangerous lie
-  * Show mercy
+  * gefahren missachten, um anderen zu helfen
+  * andere in den gerechten Kampf führen
+  * Kräfte oder Reichtümer für das Wohl vieler aufgeben
+  * eine gefährliche Lüge aufdecken
+  * Gnade zeigen
 
 #### Neutral
 
@@ -457,7 +351,7 @@ important.
 
 #### Evil
 
-  * Take advantage of someone’s trust
+  * Take advantage of someone's trust
   * Cause suffering for its own sake
   * Destroy something beautiful
   * Upset the rightful order
@@ -465,71 +359,71 @@ important.
 
 ## Hirelings
 
-Hirelings are those sorry souls that—for money, glory, or stranger
-needs—venture along with adventurers into the gloom and danger. They are the
+Hirelings are those sorry souls that-for money, glory, or stranger
+needs-venture along with adventurers into the gloom and danger. They are the
 foolhardy that seek to make their name as adventurers.
 
-Hirelings serve a few purposes. To the characters, they’re the help. They lend
-their strength to the player characters’ efforts in return for their pay. To
-the players, they’re a resource. They buy the characters some extra time
-against even the most frightening of threats. They’re also replacement
-characters, waiting to step up into the hero’s role when a player character
-falls. To the GM, they’re a human face for the characters to turn to, even in
+Hirelings serve a few purposes. To the characters, they're the help. They lend
+their strength to the player characters' efforts in return for their pay. To
+the players, they're a resource. They buy the characters some extra time
+against even the most frightening of threats. They're also replacement
+characters, waiting to step up into the hero's role when a player character
+falls. To the GM, they're a human face for the characters to turn to, even in
 the depths of the earth or the far reaches of the planes.
 
 Hirelings are not heroes. A hireling may become a hero, as a replacement
-character, but until that time they’re just another GM character. As such
-their exact HP, armor, and damage aren’t particularly important. A hireling is
+character, but until that time they're just another GM character. As such
+their exact HP, armor, and damage aren't particularly important. A hireling is
 defined by their **Skill** (or Skills) a **Cost** and a **Loyalty** score.
 
-A hireling’s skill is a special benefit they provide to the players. Most
+A hireling's skill is a special benefit they provide to the players. Most
 skills are related to class abilities, allowing a hireling to fill in for a
-certain class. If you don’t have a ranger but you need to track the assassin’s
+certain class. If you don't have a ranger but you need to track the assassin's
 route out of Torsea anyway, you need a Tracker. Each skill has a rank, usually
 from 1 to 10. The higher the rank the more trained the hireling. Generally
 hirelings only work for adventurers of equal or higher level than their
 highest skill.
 
-Skills don’t limit what a hireling can do, they just provide mechanics for a
+Skills don't limit what a hireling can do, they just provide mechanics for a
 certain ability. A hireling with the protector skill can still carry your
-burdens or check for traps, but the outcome isn’t guaranteed by a rule. It
+burdens or check for traps, but the outcome isn't guaranteed by a rule. It
 will fall entirely to the circumstances and the GM. Sending a hireling to do
 something that is clearly beyond their abilities is asking the GM for trouble.
 
-No hireling works for free. The hireling’s cost is what it takes to keep them
-with the player characters. If the hireling’s cost isn’t paid regularly
-(usually once a session) they’re liable to quit or turn on their employers.
+No hireling works for free. The hireling's cost is what it takes to keep them
+with the player characters. If the hireling's cost isn't paid regularly
+(usually once a session) they're liable to quit or turn on their employers.
 
 When hirelings are in play, the players may have to make the Order Hirelings
 move. The move uses the loyalty of the hireling that triggered the move:
 
-Hirelings do what you tell them to, so long as it isn’t obviously dangerous,
+Hirelings do what you tell them to, so long as it isn't obviously dangerous,
 degrading, or stupid, and their cost is met. **When a hireling find themselves
 in a dangerous, degrading, or just flat-out crazy situation due to your
 orders** roll+loyalty. On a 10+ they stand firm and carry out the order. On a
-7–9 they do it for now, but come back with serious demands later. Meet them or
+7-9 they do it for now, but come back with serious demands later. Meet them or
 the hireling quits on the worst terms.
 
 ## Making a Hireling
 
-Hirelings are easy to make on the fly. When someone enters the players’ employ
-note down their name and what cost they’ve agreed to as well as any skills
+Hirelings are easy to make on the fly. When someone enters the players' employ
+note down their name and what cost they've agreed to as well as any skills
 they may have.
 
 Start with a number based on where the hireling was found. Hirelings in
-villages start with 2–5. Town hirelings get 4–6. Keep hirelings are 5–8. City
-hirelings are 6–10. Distribute the hireling’s number between loyalty, a main
+villages start with 2-5. Town hirelings get 4-6. Keep hirelings are 5-8. City
+hirelings are 6-10. Distribute the hireling's number between loyalty, a main
 skill, and zero or more secondary skills. Starting loyalty higher than 2 is
 unusual, as is starting loyalty below 0. Choose a cost for the hireling and
-you’re done.
+you're done.
 
-A hireling’s stats, especially their loyalty, may change during play as a
+A hireling's stats, especially their loyalty, may change during play as a
 reflection of events. A particular kindness or bonus from the players is worth
-+1 loyalty forward. Disrespect is -1 loyalty forward. If it’s been a while
++1 loyalty forward. Disrespect is -1 loyalty forward. If it's been a while
 since their cost was last paid they get -1 loyalty ongoing until their cost is
 met. A hireling's loyalty may be permanently increased when they achieve some
 great deed with the players. A significant failure or beating may permanently
-lower the hireling’s loyalty.
+lower the hireling's loyalty.
 
 ### Costs
 
@@ -547,12 +441,12 @@ When you make a hireling, distribute points among one or more of these skills.
 #### Adept
 
 An adept has at least apprenticed to an arcane expert, but is not powerful in
-their own right. They’re the grad students of the arcane world.
+their own right. They're the grad students of the arcane world.
 
-_Arcane Assistance_—When an adept aids in the casting of a spell of lower
-level than their skill, the spell’s effects have greater range, duration, or
-potency. The exact effects depend on the situation and the spell and are up to
-the GM. The GM will describe what effects the assist will add before the spell
+_Arcane Assistance_-When an adept aids in the casting of a spell of lower
+level than their skill, the spell's effects have greater range, duration, or
+potency. The exact effects depend on the situation and the spell and are up tothe GM. The GM will describe what effects the assist 
+will add before the spell
 is cast. The most important feature of casting with an adept is that any
 negative effects of the casting are focused on the adept first.
 
@@ -562,10 +456,10 @@ Burglars are skilled in a variety of areas, most of them illicit or dangerous.
 They are good with devices and traps, but not too helpful in the field of
 battle.
 
-_Experimental Trap Disarming_—When a burglar leads the way they can detect
+_Experimental Trap Disarming_-When a burglar leads the way they can detect
 traps almost in time. If a trap would be sprung while a burglar is leading the
 way the burglar suffers the full effects but the players get +skill against
-the trap and add the burglar’s skill to their armor against the trap. Most
+the trap and add the burglar's skill to their armor against the trap. Most
 traps leave a burglar in need of immediate healing. If the players Make Camp
 near the trap, the burglar can disarm it by the time camp is broken.
 
@@ -574,9 +468,9 @@ near the trap, the burglar can disarm it by the time camp is broken.
 When a smiling face is needed to smooth things over or negotiate a deal a
 minstrel is always happy to lend their services for the proper price.
 
-_A Hero’s Welcome_—When you enter a place of food, drink, or entertainment
+_A Hero's Welcome_-When you enter a place of food, drink, or entertainment
 with a minstrel you will be treated as a friend by everyone present (unless
-your actions prove otherwise). You also subtract the minstrel’s skill from all
+your actions prove otherwise). You also subtract the minstrel's skill from all
 prices in town.
 
 #### Priest
@@ -585,10 +479,10 @@ Priests are the lower ranking clergy of a religion, performing minor offices
 and regular sacraments. While not granted spells themselves, they are able to
 call upon their deity for minor aid.
 
-_Ministry_—When you make camp with a priest if you would normally heal you
+_Ministry_-When you make camp with a priest if you would normally heal you
 heal +skill HP.
 
-_First Aid_—When a priest staunches your wounds heal 2×skill HP. You take -1
+_First Aid_-When a priest staunches your wounds heal 2◊skill HP. You take -1
 forward as their healing is painful and distracting.
 
 #### Protector
@@ -596,140 +490,140 @@ forward as their healing is painful and distracting.
 A protector stands between their employer and the blades, fangs, teeth, and
 spells that would harm them.
 
-_Sentry_—When a protector stands between you and an attack you increase your
-armor against that attack by the defender’s skill, then reduce their skill by
+_Sentry_-When a protector stands between you and an attack you increase your
+armor against that attack by the defender's skill, then reduce their skill by
 1 until they receive healing or have time to mend.
 
-_Intervene_—When a protector helps you defy danger you may opt to take +1 from
+_Intervene_-When a protector helps you defy danger you may opt to take +1 from
 their aid. If you do you cannot get a 10+ result, a 10+ instead counts as a
-7–9.
+7-9.
 
 #### Tracker
 
-Trackers know the secrets of following a trail, but they don’t have the
+Trackers know the secrets of following a trail, but they don't have the
 experience with strange creatures and exotic locales that make for a great
 hunter.
 
-_Track_—When a tracker is given time to study a trail while Making Camp, when
+_Track_-When a tracker is given time to study a trail while Making Camp, when
 camp is broken they can follow the trail to the next major change in terrain,
 travel, or weather.
 
-_Guide_—When a tracker leads the way you automatically succeed on any Perilous
-Journey of a distance (in rations) lower than the tracker’s skill.
+_Guide_-When a tracker leads the way you automatically succeed on any Perilous
+Journey of a distance (in rations) lower than the tracker's skill.
 
 #### Warrior
 
 Warriors are not masters of combat, but they are handy with a weapon.
 
-_Man-at-arms_—When you deal damage while a warrior aids you add their skill to
+_Man-at-arms_-When you deal damage while a warrior aids you add their skill to
 the damage done. If your attack results in consequences (like a counter
 attack) the man-at-arms takes the brunt of it.
 
-## The Adventurer’s Life
+## The Adventurer's Life
 
-Now you know the basics. It’s time you found out what the adventurer’s life is
-really like. They say it’s all gold and glory. That’s sometimes true, but
+Now you know the basics. It's time you found out what the adventurer's life is
+really like. They say it's all gold and glory. That's sometimes true, but
 sometimes it also means digging through otyugh waste for a chance at one more
 gold coin.
 
 ### Dungeons
 
-As an adventurer you’ll spend a lot of time in dungeons. The word “dungeon”
+As an adventurer you'll spend a lot of time in dungeons. The word "dungeon"
 conjures up an image of the stony halls under a castle where prisoners are
 kept, but a dungeon is really any place filled with danger and opportunity. A
-dragon’s cave, an enemy camp, a forgotten sewer, a sky castle, the very
+dragon's cave, an enemy camp, a forgotten sewer, a sky castle, the very
 foundations of the world.
 
-The most important thing to remember when you’re in a dungeon is that it’s a
-living place. Just because you cleared the guards out of the entryway doesn’t
-mean they won’t be replaced by fresh recruits. Every monster, soldier, or
-leader you kill has friends, mates, followers, and spawn somewhere. Don’t
+The most important thing to remember when you're in a dungeon is that it's a
+living place. Just because you cleared the guards out of the entryway doesn't
+mean they won't be replaced by fresh recruits. Every monster, soldier, or
+leader you kill has friends, mates, followers, and spawn somewhere. Don't
 count on anything in a dungeon.
 
-Since dungeons are living places you’d better prepare for the long haul.
-Rations are your best friend. Delving into the Hall of Xa’th’al isn’t a day
-trip. Once you’re inside your exit might be blocked. Even if you could just
+Since dungeons are living places you'd better prepare for the long haul.
+Rations are your best friend. Delving into the Hall of Xa'th'al isn't a day
+trip. Once you're inside your exit might be blocked. Even if you could just
 waltz out the time you spend doing it just gives your enemies time to prepare.
-Those goblins aren’t tough, but when they have time to rally and prepare
-traps…
+Those goblins aren't tough, but when they have time to rally and prepare
+traps...
 
-Speaking of traps—keep your eyes open for them, too. The thief is your best
+Speaking of traps-keep your eyes open for them, too. The thief is your best
 friend there. They can stop you before you wander into a pit trap or fill the
-room with acid. Without one you’re not in dire trouble, but you’re likely to
+room with acid. Without one you're not in dire trouble, but you're likely to
 need to take your time and be extra careful. You can investigate an area by
-discerning realities, but you’ll be taking more risks than a skilled thief
+discerning realities, but you'll be taking more risks than a skilled thief
 would.
 
-When you’re unlucky enough to trigger a trap you might have a chance to get
-out of the way, throw up a quick protective spell, or save a friend—most
+When you're unlucky enough to trigger a trap you might have a chance to get
+out of the way, throw up a quick protective spell, or save a friend-most
 likely by defying danger. Of course not every trap is so crude as to give you
 time to get out of the way. A well-built trap will have a blade in your side
-before you even know it’s sprung.
+before you even know it's sprung.
 
-That sounds grim, sure, but it’s not as bad as all that. You’ve got steel,
-skills, and spells. If you stick together and keep your wits you’ll make it
+That sounds grim, sure, but it's not as bad as all that. You've got steel,
+skills, and spells. If you stick together and keep your wits you'll make it
 out alive. Probably.
 
 ### Monsters
 
 The beasts and worse that fill dungeons? We call them monsters.
 
-Not all of them appear monstrous. Sometimes it’s just a guy in some armor—no
+Not all of them appear monstrous. Sometimes it's just a guy in some armor-no
 horns, flames, or wings, nothing. But when that guy wants to kill you, well,
-he’s as much a monster as the rest.
+he's as much a monster as the rest.
 
-Some don’t even need arms and armor. A wily warlock or nefarious noble can
+Some don't even need arms and armor. A wily warlock or nefarious noble can
 stab you in the back a dozen times with a word or two. Be wary of anyone who
-can stroll around a dungeon with nothing but a robe and a staff: there’s a
-reason they don’t need a shell of steel.
+can stroll around a dungeon with nothing but a robe and a staff: there's a
+reason they don't need a shell of steel.
 
-When it comes to fighting monsters, it’s an even bet: your life versus theirs.
+When it comes to fighting monsters, it's an even bet: your life versus theirs.
 You should know that going into it. If you can avoid it, never fight with even
-odds. Unless you have the advantage you’re probably better off working to gain
+odds. Unless you have the advantage you're probably better off working to gain
 that advantage than betting your life on a fight. Find their weaknesses, pad
-your advantages, and you’ll live long enough to enjoy the spoils.
+your advantages, and you'll live long enough to enjoy the spoils.
 
 Fights often mean triggering moves like hack and slash, defend, or volley.
 Defy danger comes up pretty often too, and class moves like cast a spell. The
-best fight for you is one where you have the drop—since hack and slash is
-triggered by attacking in melee, and a defenseless enemy isn’t really in
-melee, the move won’t trigger—you’ll just bury a weapon or spell in their back
+best fight for you is one where you have the drop-since hack and slash is
+triggered by attacking in melee, and a defenseless enemy isn't really in
+melee, the move won't trigger-you'll just bury a weapon or spell in their back
 and deal your damage.
 
 Monsters generally fall into a few types. Humanoids are more or less like
-you—orcs, goblins, and so on. Beasts are animals, but not so docile as Bessie
+you-orcs, goblins, and so on. Beasts are animals, but not so docile as Bessie
 the cow: think foot-long horns and acid sacs. Constructs are crafted life.
 Planar monsters come from beyond this world, from places only dreamed of. The
 undead might be the worst of all: that which is dead is damn hard to kill
 again.
 
 When you find yourself in a fight with a monster you have a few different
-tricks up your sleeve that can help you survive. If the monster’s something
+tricks up your sleeve that can help you survive. If the monster's something
 you might know about, you could consult your knowledge and spout lore. It
-never hurts to take a minute to look around and discern realities, too—there
+never hurts to take a minute to look around and discern realities, too-there
 might be something helpful nearby that you missed. Make sure you understand
 your class moves and how they can help you, too. You never know when a move
 might come in handy in a new way.
 
 ### Wilderness
 
-There’s dungeons, there’s civilization, and there’s all the stuff in-between:
+There's dungeons, there's civilization, and there's all the stuff in-between:
 the wilderness. The line between a forest and a dungeon is thinner than you
-might think—have you ever been lost in the night and surrounded by wolves?
+might think-have you ever been lost in the night and surrounded by wolves?
 
-Journeys by road are easy. When you’ve got a trail to follow and some modicum
-of protection you’re not even making moves—you just consume some rations on
-the way and make it to your destination. If it’s a perilous journey though…
+Journeys by road are easy. When you've got a trail to follow and some modicum
+of protection you're not even making moves-you just consume some rations on
+the way and make it to your destination. If it's a perilous journey though...
 
-On a perilous journey you’ll need a trailblazer, a scout, and a quartermaster.
-That means you’ll probably want at least three people when you’re traveling in
-dangerous areas. Fewer than three and you’ll be neglecting something—that’s an
+On a perilous journey you'll need a trailblazer, a scout, and a quartermaster.
+That means you'll probably want at least three people when you're traveling in
+dangerous areas. Fewer than three and you'll be neglecting something-that's an
 invitation for trouble.
 
 ### Friends and Enemies
 
-You’re an adventurer, so people will pay attention to you. Not all of that
-attention is going to be positive. You’ll find that, especially once you’re
+You're an adventurer, so people will pay attention to you. Not all of that
+attention is going to be positive. You'll find that, especially once you're
 laden down with ancient treasure, all manner of hangers-on will appear from
 the woodwork.
 
@@ -737,39 +631,40 @@ Sure, you can get leverage on these people and parley them to get what you
 want, but the way to build a lasting connection is to do right by them.
 Forcing Duke Alhoro to give you a castle in return for his daughter will get
 you the land, but the reputation that comes along with your shady dealing
-won’t do you many favors. Coercion isn’t mind control, so play it nice if you
+won't do you many favors. Coercion isn't mind control, so play it nice if you
 want to make friends.
 
-Magic, though, that just might be mind control. The morality of it’s debatable
-but you can bend someone to your will if you don’t mind tossing their free
+Magic, though, that just might be mind control. The morality of it's debatable
+but you can bend someone to your will if you don't mind tossing their free
 will in the corner.
 
-It’s worth keeping track of who’s got your back and who’d sooner stab you in
-it. The GM will be doing the same, and the worst enemy is the one you don’t
-know. You’re not the only ones in Dungeon World with grand designs.
+It's worth keeping track of who's got your back and who'd sooner stab you in
+it. The GM will be doing the same, and the worst enemy is the one you don't
+know. You're not the only ones in Dungeon World with grand designs.
 
-While you live the adventurer’s life, with no fixed address to give, other
+While you live the adventurer's life, with no fixed address to give, other
 folks are likely to be more settled. Knowing where the blacksmith is that does
-the best work, or which town’s inns will put you up free of charge, is a fine
+the best work, or which town's inns will put you up free of charge, is a fine
 thing indeed.
 
 Keep in mind that not all power is physical. Even if you could take down King
-Arlon in a fight you’ll just be inviting retribution from his kin, allies, and
+Arlon in a fight you'll just be inviting retribution from his kin, allies, and
 court. Station is its own kind of power apart from magic and might.
 
 ### The World
 
-You’re an adventurer; you’re a big deal. But there are other forces at work
-too. The world will go on without you. If you don’t deal with the goblin
+You're an adventurer; you're a big deal. But there are other forces at work
+too. The world will go on without you. If you don't deal with the goblin
 infestation in the sewers maybe someone else will. Or maybe the goblins will
 take over the city. Do you really want to find out?
 
 A world in motion is a world waiting to be changed. Your choices of who to
-kill (or not), where to go, what bargains to make—it all changes the world
-you’re in. Changing the world requires acting on it—making moves and pursuing
+kill (or not), where to go, what bargains to make-it all changes the world
+you're in. Changing the world requires acting on it-making moves and pursuing
 treasure and exploration. Change comes in many forms, including XP used to
 level up and gain new abilities. Those abilities are then used to go back out
-into the world and stir things up. It’s a cycle of change and growth for both
+into the world and stir things up. It's a cycle of change and growth for both
 you and the world you live in.
 
 engl 8464 words/
+
