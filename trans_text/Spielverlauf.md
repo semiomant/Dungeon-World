@@ -337,85 +337,49 @@ In manchen Fällen darf eine Spielercharakter einen Einstellungszug wechseln wä
 
 #### Neutral
 
-  * Make an ally of someone powerful
-  * Defeat a personally important foe
-  * Learn a secret about an enemy
-  * Uncover a hidden truth
+  * jemand Mächtigen als Verbündeten gewinnen
+  * einen persönlichen Feind besiegen
+  * ein Geheimnis eines Feindes entdecken
+  * eine verborgene Wahrheit entdecken
+  
+#### Chaotisch
 
-#### Chaotic
+  * Korruption aufdecken
+  * ein ungerechtes Gesetz zum Wohle anderer brechen
+  * einen Tyrannen besiegen 
+  * SCheinheiligkeit aufdecken
 
-  * Reveal corruption
-  * Break an unjust law to benefit another
-  * Defeat a tyrant
-  * Reveal hypocrisy
+#### Böse
 
-#### Evil
+  * das vertrauen von jemandem zum eigenen Vorteil misbrauchen
+  * Leiebn um seiner selbst willen verursachen
+  * etwas schönes zerstören
+  * die rechtmäßige Ordnung auf den Kopf stellen
+  * einen unschuldigen verletzten
 
-  * Take advantage of someone's trust
-  * Cause suffering for its own sake
-  * Destroy something beautiful
-  * Upset the rightful order
-  * Harm an innocent
+## Mietlinge
 
-## Hirelings
+Mietling sind arme Seelen, die - für Geld, Ruhm oder aus seltsameren Gründen - Abenteurer in Gefahr und Finsternis begleiten. Sie sind die Tollkühnen, die versuchen sich einen Namen als Abenteurer zu machen. 
 
-Hirelings are those sorry souls that-for money, glory, or stranger
-needs-venture along with adventurers into the gloom and danger. They are the
-foolhardy that seek to make their name as adventurers.
+Mietlinge dienen verschiedenen Zwecken. Für die Charaltere sind sie Hilfe. Sie leihen den Bemühungen der SPielercharaktere ihrer Stärke im Gegenzug zu ihrer Bezahlung. Für die die Spieler sind sie eine Resource. SIe verschaffen den Charakteren extra Zeit auch gegen die fürchterlichsten Bedrohungen. SIe sind auch Ersatzcharaktere, die darauf warten die Rolle des Helden anzunehmen, sollte einer der Spielercharaktere fallen. Für den SL sind sie menschliche Gesichter, an die sich die Charaktere auch in den Tiefen der erde oder auf den fernsten Ebenen wenden können.   
 
-Hirelings serve a few purposes. To the characters, they're the help. They lend
-their strength to the player characters' efforts in return for their pay. To
-the players, they're a resource. They buy the characters some extra time
-against even the most frightening of threats. They're also replacement
-characters, waiting to step up into the hero's role when a player character
-falls. To the GM, they're a human face for the characters to turn to, even in
-the depths of the earth or the far reaches of the planes.
+Mietlinge sind keine Helden. Ein Mietling kann zu einem Helden werden, als Ersatzcharater, aber bis dahin sind sie bloß weitere SL Charaktere. Als solche sind ihre exakten TP, die Rüstung und der Schaden nicht sonderlich wichtig. Ein Mietling wird definiert durch seine **Fertigkeit** (oder Fertigkeiten), seine **Kosten** und einen **Loyalitäts-**Wert.
 
-Hirelings are not heroes. A hireling may become a hero, as a replacement
-character, but until that time they're just another GM character. As such
-their exact HP, armor, and damage aren't particularly important. A hireling is
-defined by their **Skill** (or Skills) a **Cost** and a **Loyalty** score.
+Dier Fertigkeit eines Mietlings ist ein besonder Vorteil, den er den Spilern verschaffen kann. Viele Fertigkeiten sind mit den Fähigkeiten der Klasssen verwandt, dies erlabt Mietlingen für bestimmte Klasssen einzuspringen. Wenn ihr keinen Waldläufer habt, aber den Spuren des Meuchelmöders aus Torsea heraus folgen müsst, dann bracht ihrer einen Spurenleser. Jede Fertigkeit hat einen Rang, normalerweise von 1 bis 10. Je höher der Rang, desto besser die Ausbildung des Mietlings. Im allgemeinen arbeiten Mietlinge nur für Charaktere, deren Stufe gleich oder größer als ihre höchste Fertigkeit ist. 
 
-A hireling's skill is a special benefit they provide to the players. Most
-skills are related to class abilities, allowing a hireling to fill in for a
-certain class. If you don't have a ranger but you need to track the assassin's
-route out of Torsea anyway, you need a Tracker. Each skill has a rank, usually
-from 1 to 10. The higher the rank the more trained the hireling. Generally
-hirelings only work for adventurers of equal or higher level than their
-highest skill.
+Fertigkeiten beschränken nicht, was ein Mietling tun kann, sie stellen nur die Mechaniken für eine bestimme Fähigkeit zur Verfügung. Ein Mietling mit der Fertigkeit Beschützer kann Laten schleppen oder nach Fallen suchen, aber das Ergebnis ist nicht durch eine Regel garaniert. Es hängt völlig von den Umständen und dem SL ab. Einn Mietling eine Aufgabe anzuvertrauen, die klar jenseits seiner Möglichkeiten liegt heisst den SL um Schwierigkeiten bitten.
 
-Skills don't limit what a hireling can do, they just provide mechanics for a
-certain ability. A hireling with the protector skill can still carry your
-burdens or check for traps, but the outcome isn't guaranteed by a rule. It
-will fall entirely to the circumstances and the GM. Sending a hireling to do
-something that is clearly beyond their abilities is asking the GM for trouble.
+Kein Mietling arbeitet gratis. Die Kosten des Mietlings sind ws es bracht um den Mietling bei den Spielercharakteren zu halten. Wenn die KOsten eines Miet lings nicht regelmäßig bezahlt werden (gewöhnlich einmal pro sitzung), besteht die Gefahr, das sie abhauen oder sich gegen ihre Auftraggeber wenden. 
 
-No hireling works for free. The hireling's cost is what it takes to keep them
-with the player characters. If the hireling's cost isn't paid regularly
-(usually once a session) they're liable to quit or turn on their employers.
+Wenn Mietlinge im Spiel sind, kann es passieren, dass die Spiler den Mitelinge befelhigen Zug machen müssen. Beim Zug wir die Loyalität des Mietlings, der den Zug ausgelöst hat verendet:
 
-When hirelings are in play, the players may have to make the Order Hirelings
-move. The move uses the loyalty of the hireling that triggered the move:
+Mietlinge tun was ihene gesagt wird, so lange es nicht offensichtlich gefährlich, herabwürdigend oder dumm ist und ihre Kosten bezahlt sind. **Wenn sich ein Mietling in eine gefährliche, herabwürdigende, oder einfach wahnwitzge Situation begeben aufgrund deiner Anweisungen begeben soll** würfle+Loyalität. Bei 10+ halten sie Stand und führen den Befehl aus. Bei 7-9 machen sie es erstmal, werden aber später grössere Forderungen machen. Erfülle sie oder der Mietling wird sich im Schlechten von dir trennen.
 
-Hirelings do what you tell them to, so long as it isn't obviously dangerous,
-degrading, or stupid, and their cost is met. **When a hireling find themselves
-in a dangerous, degrading, or just flat-out crazy situation due to your
-orders** roll+loyalty. On a 10+ they stand firm and carry out the order. On a
-7-9 they do it for now, but come back with serious demands later. Meet them or
-the hireling quits on the worst terms.
+## Einen Mietling erschaffen
 
-## Making a Hireling
+Mietlinge sind leicht eilig zu erschaffen. Wenn die Spieler jemanden anheuern, notiere dir den Namen, die vereinbarten Gegenleistungen und eventuell vorhandene Fertigkeiten.
 
-Hirelings are easy to make on the fly. When someone enters the players' employ
-note down their name and what cost they've agreed to as well as any skills
-they may have.
-
-Start with a number based on where the hireling was found. Hirelings in
-villages start with 2-5. Town hirelings get 4-6. Keep hirelings are 5-8. City
-hirelings are 6-10. Distribute the hireling's number between loyalty, a main
-skill, and zero or more secondary skills. Starting loyalty higher than 2 is
-unusual, as is starting loyalty below 0. Choose a cost for the hireling and
-you're done.
+Beginne mit einer Zahl, die darauf basiert, wo der Mietling gefunden wurde. Mietlinge aus Dörfern fangen mit 2-5 an, bei einer Ortschaft 4-6, Mietlinge von einer Burg haben 5-8 und bei einer Stadt 6-10. Verteile die Zahle des Mietlings auf Loyalität, Hauptfertigkeit, und keine oder mehr Nebenfertigkeiten. Eine Anfangslyalität von über 2 ist ungewöhnlich ebenso wie eine unter 0. Wähle die Kosten für den Mietling und du bist fertig.
 
 A hireling's stats, especially their loyalty, may change during play as a
 reflection of events. A particular kindness or bonus from the players is worth
@@ -425,7 +389,7 @@ met. A hireling's loyalty may be permanently increased when they achieve some
 great deed with the players. A significant failure or beating may permanently
 lower the hireling's loyalty.
 
-### Costs
+### Kosten
 
   * The Thrill of Victory
   * Money
