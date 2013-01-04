@@ -161,7 +161,7 @@ Es gibt zwei Quellen der Heilung in DW: medizinischer Beistand und das Vergehen 
 
 Medizinischer Beistand, ob magisch oder weltlich/profan/normal, heilt Schaden je nach angewendetem Zug oder Gegenstand. Manche Züge vermögen die TP wieder aufzufüllen, während andere gerade genug heilen, um jemanden während eines Kampfes auf den Beinen zu halten. 
 
-Wenn ein Charakter einige Zeit mit Rasten/Erholung/ruhe verbringt, ohne etwas zu tun, was ihre Wunden verschlimmert, so heilen sie. Der Betrag der Heilung ist in den entsprechenden Zügen vermerkt: Lagern für eine Nacht in einer gefährlichen Gegend, Erholen für Aufenthalte in der Zivilisation.
+Wenn ein Charakter einige Zeit mit Rasten/Erholung/ruhe verbringt, ohne etwas zu tun, was ihre Wunden verschlimmert, so heilen sie. Der Betrag der Heilung ist in den entsprechenden Zügen vermerkt: Lager aufschlagen in einer gefährlichen Gegend, Erholen für Aufenthalte in der Zivilisation.
 
 Unabhängig von der Ursache der Heilung können die sich die TP eines Charakters nicht über ihr Maximum hinaus erhöhen.
 
@@ -381,109 +381,70 @@ Mietlinge sind leicht eilig zu erschaffen. Wenn die Spieler jemanden anheuern, n
 
 Beginne mit einer Zahl, die darauf basiert, wo der Mietling gefunden wurde. Mietlinge aus Dörfern fangen mit 2-5 an, bei einer Ortschaft 4-6, Mietlinge von einer Burg haben 5-8 und bei einer Stadt 6-10. Verteile die Zahle des Mietlings auf Loyalität, Hauptfertigkeit, und keine oder mehr Nebenfertigkeiten. Eine Anfangslyalität von über 2 ist ungewöhnlich ebenso wie eine unter 0. Wähle die Kosten für den Mietling und du bist fertig.
 
-A hireling's stats, especially their loyalty, may change during play as a
-reflection of events. A particular kindness or bonus from the players is worth
-+1 loyalty forward. Disrespect is -1 loyalty forward. If it's been a while
-since their cost was last paid they get -1 loyalty ongoing until their cost is
-met. A hireling's loyalty may be permanently increased when they achieve some
-great deed with the players. A significant failure or beating may permanently
-lower the hireling's loyalty.
+Ein die Werte eines Mietlings verändern sich im Laufe des Spiels durch Änderung der Umstände. eine besondere Freundlichkeit oder ein Bonus gibt +1 auf Loyalität voraus. Geringschätzung gibt -1 auf Loyalitaät voraus. Wenn es schon eine Weile her ist, die Kosten bezahlt wurden, gibt es -1 förtwährend auf Loyalität. Die Loyalität eines Mietlings wird dauerhaft erhöht wenn sie eine große Tat gemeinsam mit den Spielern vollbringen. Ein deutlicher Fehlschlag oder Niederlage kann die Loyalität eines Mietlings dauerhaft herabsetzten.
 
 ### Kosten
 
-  * The Thrill of Victory
-  * Money
-  * Uncovered Knowledge
-  * Fame and Glory
-  * Debauchery
-  * Good Accomplished
+  * der Nervenkitzel des Sieges
+  * Geld
+  * entdecktes Wissen
+  * Ruhm und Ehre
+  * Ausschweifungen
+  * gute Taten
+  
+### Fertigkeiten
 
-### Skills
-
-When you make a hireling, distribute points among one or more of these skills.
+Wenn du einen Mietling erstellst, verteile Punkte auf einer oder mehrere der folgenden Fertigkeiten:
 
 #### Adept
 
-An adept has at least apprenticed to an arcane expert, but is not powerful in
-their own right. They're the grad students of the arcane world.
+Ein Adept war zumindest einmal Lehrling eines arkanen Meisters, ist aber selbst nicht sehr mächtig. Es sind die Promoviereden der arkanen Welt.
 
-_Arcane Assistance_-When an adept aids in the casting of a spell of lower
-level than their skill, the spell's effects have greater range, duration, or
-potency. The exact effects depend on the situation and the spell and are up tothe GM. The GM will describe what effects the assist 
-will add before the spell
-is cast. The most important feature of casting with an adept is that any
-negative effects of the casting are focused on the adept first.
+_Arkaner Assistent:_ Wenn ein Adept bei dem Wirken eines Zaubers von niedriger Stufe als ihre  Fertugkeit hilft, so hat der Zauber eine größere Reichweite, Dauer oder Potenz. Die genauen Auswirkungen hängen von der Situation ab und liegen beim SL. Der SL beschreibt bevor der Spruch gezaubert wird, welche Effekte die Hilfe haben wird. Das wichtigste Merkmal von Spruchzauberei mit einem Apdepten ist, das negative Auswirkungen des Zauberns primär auf den Adepten fokussiert sind.
 
-#### Burglar
+#### Einbrecher
 
-Burglars are skilled in a variety of areas, most of them illicit or dangerous.
-They are good with devices and traps, but not too helpful in the field of
-battle.
+Einbrecher sind in den verschiensten Fachgebiten bewandert, von denen die meisten illegal oder gefährlich sind. Sie sind gut mit Mechanismen und Fallen, aber im Kampf nicht sehr hilfreich.
 
-_Experimental Trap Disarming_-When a burglar leads the way they can detect
-traps almost in time. If a trap would be sprung while a burglar is leading the
-way the burglar suffers the full effects but the players get +skill against
-the trap and add the burglar's skill to their armor against the trap. Most
-traps leave a burglar in need of immediate healing. If the players Make Camp
-near the trap, the burglar can disarm it by the time camp is broken.
+_Versuchsweise Fallenentschärfung:_ Wenn ein Einbrecher voraus geht kann er Fallen entdecken gerade rechtzeitig entdecken. Falls eine Falle ausgelöst werden würde während ein Einbrecher voran geht, so erliedet der Einbrecher die gesamten Auswirkungen, die Spieler jedoch erhalten +Fertigkeit gegen die Falle und dürfen die Fertigkeit des Einbrecher zu ihrer Rüstung gegen die Falle addieren. Die meisten Fallen erforden sofortige Heiling für den Einbrecher. Wenn die Spieler in der nähe der Falle ihr Lager Aufschlagen, so kann der Einbrecher die Falle entschärfen, wenn das Lager abgebaut wird.
 
-#### Minstrel
+#### Spielmann
 
-When a smiling face is needed to smooth things over or negotiate a deal a
-minstrel is always happy to lend their services for the proper price.
+Wenn ein freundliches Gesicht gebraucht wird, um die Wellen zu glätten oder ein Geschäft anzubahnen, so gibt es immer einen Spielmann, der bereit ist seine Dienste für den richtigen Preis anzubieten.
 
-_A Hero's Welcome_-When you enter a place of food, drink, or entertainment
-with a minstrel you will be treated as a friend by everyone present (unless
-your actions prove otherwise). You also subtract the minstrel's skill from all
-prices in town.
+_Ein Empfang für Helden:_ Wenn ihr einen Ort des Essens, Trinkes und der Unterhaltung mit einem Spielmann betretet, werdet ihr von allen als Freunde behandelt (es sei denn eure Handlungen bewisen das Gegenteil). Zieht auch die Fertigkeit des Spielmanns von allen Preisen im Ort ab.  
 
-#### Priest
+#### Diakone
 
-Priests are the lower ranking clergy of a religion, performing minor offices
-and regular sacraments. While not granted spells themselves, they are able to
-call upon their deity for minor aid.
+Diakone sind niederranige Mitglieder des Klerus einer Religion, die mindere Dienste und übliche Sakamente ausführen. Obwohl ihnen keine Srüche gewährt werden, so können sie doch ihre Gottheit um etwas Beistand anrufen. 
 
-_Ministry_-When you make camp with a priest if you would normally heal you
-heal +skill HP.
+_Ministrant:_ Wenn ihr euer Lager aufschlagt mit einem Diakon und dabei heilen würdet, so heilt ihr +Fertigkeit TP.
 
-_First Aid_-When a priest staunches your wounds heal 2◊skill HP. You take -1
-forward as their healing is painful and distracting.
+_Erste Hilfe:_ Wenn ein Diakon deine Wunden stillt, heile 2*Fertigkeit TP. Erhalte -1 voraus, da seine Heilung scmerzhaft und ablenkend ist. 
 
-#### Protector
+#### Beschützer
 
-A protector stands between their employer and the blades, fangs, teeth, and
-spells that would harm them.
+Beschützer stehen zwischen ihrer Auftraggeber und den Klingen, Klauen, Zähnen und Zaubern, die sie verletzen wollen.
 
-_Sentry_-When a protector stands between you and an attack you increase your
-armor against that attack by the defender's skill, then reduce their skill by
-1 until they receive healing or have time to mend.
+_Wächter:_ Wenn ein Bescützer zwischen dir und einem Angriff steht, erhöhe deine Rüstung gegen den Angriff um die Fertigkeit des Verteidigers, reduzire dann die Fertigkeit um 1 bis sie geheilt wurden oder Zeit hatten, sich zu  erholen.
 
-_Intervene_-When a protector helps you defy danger you may opt to take +1 from
-their aid. If you do you cannot get a 10+ result, a 10+ instead counts as a
-7-9.
+_Dazwischengehen:_ Wenn ein Beschützer dir hilft der Gefahr zu trotzen, kannst du dich entscheiden +1 durch ihre Hilfe zu erhalten. Wenn das tust, kannst du kein 10+ Resultat bekommen, 10+ zählt als 7-9.
 
-#### Tracker
+#### Spurenleser
 
-Trackers know the secrets of following a trail, but they don't have the
-experience with strange creatures and exotic locales that make for a great
-hunter.
+Spurenleser kennen die Geheimnisse, wie man einer Fährte folgt, haben aber nicht viel  Erfahrung mit seltsamen Kreaturen und exotischen Schauplätzen, die einen großen Jäger ausmachen.
 
-_Track_-When a tracker is given time to study a trail while Making Camp, when
-camp is broken they can follow the trail to the next major change in terrain,
-travel, or weather.
+_Verfolgen:_ Wenn ein Spurenlesen gelegenheit erhält eine Fährte zu studieren währen das Lager aufgeschlagen ist, so kann er der fährt bis zur nächsten grössernen Änderung des Trerains, der Art des Reisens oder des Wetters folgen.
 
-_Guide_-When a tracker leads the way you automatically succeed on any Perilous
-Journey of a distance (in rations) lower than the tracker's skill.
+_Führen:_ Wenn ein Spurenleser voran geht, so ist eine gefahrvolle Reise mit einer Distanz (in Rationen) von weniger als der Fertigkeit des Spurenlesers automatisch erfolgreich.
 
-#### Warrior
+#### Krieger
 
-Warriors are not masters of combat, but they are handy with a weapon.
+Kieger sind keine Meister des Kampfes können aber mit einer Waffe umgehen.
 
-_Man-at-arms_-When you deal damage while a warrior aids you add their skill to
-the damage done. If your attack results in consequences (like a counter
-attack) the man-at-arms takes the brunt of it.
-
-## The Adventurer's Life
+_Bewaffneter:_ Wenn du Schaden austeilst während dir ein krieger hilft, zähle seine Fertigkeit zu deinem Schaden hinzu. Falls der Angriff zu Konsequenzen führt (wie etwa ein Gegenangriff), so kriegt der Bewaffnete die volle Wucht ab.
+ 
+## Der Abenteueralltag
 
 Now you know the basics. It's time you found out what the adventurer's life is
 really like. They say it's all gold and glory. That's sometimes true, but
