@@ -1,0 +1,80 @@
+equipment
+You start with 60 silver pieces
+Light Weapon (10s): d6. may be wielded as a secondary weapon, allowing you to re-roll damage once per attack. includes daggers, short swords, and hand axes.
+Martial Weapon (30s): d6+1. must be wielded in main hand. includes long swords, hammers, axes, spears etc.
+Great Weapon (40s): d6+2 damage. uses two hands. includes two-handed swords, battle-axes and pole arms.
+Shortbow (10s): d6. also slings etc.
+Bow (30s): d6+1. also crossbows, pistols etc.
+Heavy Bow/Gun (50s): d6+2 damage if firing from a stationary position. includes arbalests and muskets.
+Light Armor (30s): armor 1.
+Full Armor (60s): armor 2. always has a helm. makes
+it very hard to run, move quietly, swim, leap etc.
+Shield (10s): +1 armor.
+Adventuring Gear (2s each): 20ft rope, iron spike, chalk, parchment, flint/steel, torches (4), tent, dice, caltrops (slows pursuers), bandages, travel rations, waterskin, wineskin.
+Tools (5s each): crowbar, hatchet, animal trap, lockpicks, pen & pot of ink, fishing pole, shovel, grappling hook, pickaxe, collapsible pole.
+Occult Items (10s each): quicksilver (per dose), pouch of bone dust, vial of holy water (one use), vial of blood, ritual incense and oils.
+Fancy Items (20s each): mirror, lantern, spyglass, sand timer, board game, elaborate clothes, holy symbols and other charms.
+Fire Oil (20s per flask): sets an area on fire (d6+1 damage/round for 3 rounds unless extinguished). fills a lantern 10 times.
+Boats: rowboat (50s) to galley (200,000s).
+Carts: cart (30s) to wagon (100s).
+Taverns: 1s to sleep, 1s to eat, 1s to get drunk. Property: house (1,000s) to manor (100,000). Horses: mule (30s), horse (100s), warhorse (1,000s).
+
+hirelings
+Cost per day
+Torch Bearer (2s): 3hp, knife.
+Guide (5s): 6hp, knife, lantern, rope.
+Armsman (20s): 12hp, spear, shield, light armor.
+Expert (20s): 6hp, skill 4, dagger, bow.
+Champion (60s): 18hp, full armor, halberd, sword, shield, dagger.
+
+magic
+Most magic requires summoning a spirit, demon, or elemental to perform supernatural effects.
+a wizard begins play with the occult knowledge to summon two spirits. a spirit has a name, an appearance, and two domains of power (flame, shadow, stone, lightning, secrets, fear, etc.).
+to summon a spirit you know, you require one of the following:
+• 1 hour of uninterrupted ritual.
+• a dose of quicksilver—a mild poison and addictive drug. (10s per use). If you drink more quicksilver doses in a day than your Level you must attempt to resist its negative effects with a con roll.
+• a magic item containing a bound spirit.
+a wizard may command a spirit to perform a single magical effect that falls within its domains (it’s a good idea to give specific commands; spirits and demons can be capricious and cruel). Magical attacks do 2d6+level or 3d6+level damage if they are especially suited to the situation (using fire against a frost wraith, for example).
+
+----------------
+rules summary
+CHArACTEr CrEATIOn
+ATTrIBuTES: roll 2d6 for each. on a 6-, the
+valueis0.ona7-9,thevalueis+1.ona10or 11, the value is +2. on a 12, the value is +3.
+Choose one skill in addition to any granted by your class.
+You have 1 Hit Die (d6) + extra hit dice equal to your COn. roll all your hit dice and keep a number equal to your level to determine your hp. when you rest and consume a ration/ waterskin/wineskin, you may re-roll your hp. if you are attended by a healer, roll an extra hit die.
+FIGHTErS get athletics. choose two special abilities: Skirmish (+1 damage and worn armor counts as one type lighter), Tough (+1 armor), Slay (+2 melee damage), Hardy (+6 hp).
+THIEvES get stealth. choose two special abilities: Backstab (attack from concealment to do +3 damage), Lucky (once per day, turn a miss into a partial success), reflexes (you always go first and can react when suddenly surprised), Tinker (you can attempt to quickly pick a lock, pick a pocket, or disarm a trap).
+CLErICS get decipher and heal. choose two special abilities: Bless (with holy water, you can anoint items so they are considered holy and magical—+3 damage vs. evil—for a short time), Cure (you can attempt to neutralize poisons, remove curses, or heal wounds with a touch), Turn (you can attempt to hold undead at bay with the power of your faith and a holy symbol), vision (drink holy water to commune with your deity for divine guidance).
+WIzArDS get lore. you begin with two spirits you can summon (see magic, opposite). you get Summon and choose one other special ability: Cantrips (you know three simple magical powers: Candle, Shadow, Throw Voice), Command (you can attempt to command any spirit, demon, etc.), ritual (you may perform occult rituals—detailed in ancient tomes and scrolls—and begin with two known rituals).
+rAnGErS get survival. choose two special abilities: Pet (you have a loyal and effective animal companion), Scout (when you scout ahead you always spot the target before it spots you), volley (+2 ranged damage), Wild (you can converse with and attempt to command animals).
+Make your own class: choose a class skill and two special abilities.
+
+rOLLInG THE DICE
+When you attempt something risky, sum 2d6 and add one of your attribute scores, based on the action you’re taking. (the gm will tell you some of the possible consequences before you roll, so you can decide if it’s worth the risk or if you want to revise your action.)
+A total of 6 or less is a miss; things don’t go well and the risk turns out badly. A total of 7-9 is a partial success; you do it, but there’s some cost, compromise, retribution, harm, etc. A total of 10 or more is a full success; you do it without complications. and a total of 12 or more is a critical success; you do it perfectly to some extra benefit or advantage.
+SkILLS: if you have an applicable skill, you can’t miss. a roll of 6 or less counts as a partial success, but with a bigger compromise or complication than a 7-9 result.
+
+THE DIE OF FATE
+Sometimes the GM will roll the die of fate to see how the situation is established. low numbers are ill-fortune, high numbers are good fortune (or at least not misery). the die of fate might be rolled to establish the weather, indicate a random npc’s general attitude, or to determine if a wandering monster appears. the gm may also roll the die of fate if the pcs take some action for which sheer chance is the only factor in the outcome.
+These rules are yours to bend to your will! You may find it natural to expand, redact, and modify them as you your game goes on. We advise keeping an open mind and lively discussion of possibilities at the table.
+
+---------
+xp & levels
+As you level up you get rewards according to the table below.
+names
+True names have power. If you tell someone your true name, they can attempt to have you raised from the dead if you met your end before your time. Choose a true name below.
+
+level   HIT dice    SkILLS      ATTrIBuTES      ABILITIES   damage  xP total
+1       1+con       1+1         –               2                   0
+2       +1                                                          1,000
+3                   +1                          +1                  3,000
+4       +1                      +1 (max +3)                         6,000
+5                                                           +1d6    10,000
+6       +1          +1                          +1                  15,000
+7                               +1 (max +3)                         21,000
+8       +1                                                          28,000
+9                   +1                          +1                  36,000
+10      +1                      +1 (max +3)                 +1d6    45,000
+
+You get 1 xP for each silver piece worth of treasure or coin that you loot from the dungeon. you also get xp for defeating enemies and completing quests (10 xp for something easy up to 200+ for a really tough one) but mainly it’s about the looting.

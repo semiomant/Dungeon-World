@@ -1,0 +1,11 @@
+REGELN
+
+** Charaktererschaffung
+Würfle 2w6 für jedes Attribut. Bei 6- ist der Wert 0, bei 7-9 beträgt er +1, bei 10-12 +2 und wenn du eine 12 hast sogar +3.
+Such dir eine Klasse aus. Dadurch erhälst du eine Fertigkeit und zwei Fähigkeiten(befähigungen).
+Du hast 1 TrefferWürfel (w6) + deine  KON-Wert in extra Trefferwürfeln. Würfle deine Trefferwürfel und behalte so viele Würfel wie du Stufen hast. Die augen dieser Würfel sind deine Trefferpunkte (tp). Wenn du rastest und eine Ration zu dir nimmst, dann würfle deine Trefferpunkte neu. Falls dich ein Heiler betreut, würfle eine zusätzlichen w6.
+
+** Klassen
+Kämpfer erhalten Athletik. Fähigkeiten: Gefecht (+1 SChaden und Rüstung zählt als eine Stufe leichter), Hart im Nehmen (+1 Rüstung), Umbringen (+2 Schaden), Wegstecken (+6tp)
+Diebe erhalten Heimlichkeit. Fähigkeiten: Meucheln (+3 schaden bei hinterhältgen Angriffen), Glückspilz (verwandle einmal pro tag einen Fehlschlag in einen Teilerfolg), Refelexe (du bist zuerst dran und kannst bei Überraschung reagieren), flinke Finger (du kannst Schlösserknacken, Taschendiebstahl, Fallen entschäfen in eile versuchen)
+Kleriker erhalten Entziffern und Heilen. Fähigkeiten: Segnen (mit heiligem Wasser kannst du Gegenstände salben, so dass sie kurzzeitig als heilig und magisch gelten: +3 Schaden gegen Böses)
