@@ -10,4 +10,26 @@ Kämpfer erhalten Athletik. Fähigkeiten: Gefecht (+1 Schaden und Rüstung zähl
 Schurken erhalten Heimlichkeit. Fähigkeiten: Meucheln (+3 schaden bei hinterhältgen Angriffen), Glückspilz (verwandle einmal pro tag einen Fehlschlag in einen Teilerfolg), Refelexe (du bist zuerst dran und kannst bei Überraschung reagieren), flinke Finger (du kannst Schlösserknacken, Taschendiebstahl, Fallen entschäfen in eile versuchen)
 Kleriker erhalten Entziffern und Heilen. Fähigkeiten: Segnen (mit heiligem Wasser kannst du Gegenstände salben, so dass sie kurzzeitig als heilig und magisch gelten: +3 Schaden gegen Böses), Kurieren (du kannst versuchen Gifte zu neutralisieren, Flüche aufzuheben oder mit deiner Berührung Wunden zu heilen), Fernhalten (du kannst mit der macht deines Glaubens und einem heligen Symbol versuchen, untote fernzuhalten), Visionen (trinke heiliges Wasser um deine Gootheit um Führung zu bitten)
 Zauberer erhalen Lehren. Du beginnst (das spiel) mit zwei Wesenheiten, die du beschwören kannst (siehe Magie). Wähle noch eine andere Fähigkeit: Zaubertricks (du lennst drei einfache formeln: Flamme, Schatten, Stimme projeziren), Befehlen (du kannst versuchen jede Art von Geisten, Dämonen usw Befehle zu erteilen), Rituale (du kannst okkulte Rituale durchführen, die in uralten Folianten und schriftrollen beschrieben werden und beginnst das spiel mit zwei dir bekannten ritualen)
-Waldhüter erhalten Überleben. Wähle zwei Fähigkeiten:
+Waldhüter erhalten Überleben. Wähle zwei Fähigkeiten: Tiergefährte (du hast eine loyales und kluges Tier als Begleiter), Späher (wenn du die vorhut übernimmst, erspähst du das ziel bevor es dich sieht), Salve (+2 fernkampfschaden), Tiersprache (du kannst dich mit tieren unterhalten und veruchen ihen befehle zu erteilen)
+
+WÜRFELN
+Wenn du etwas riskantes oder ungewisses versuchst, würfle 2W6 und zähle den wert eines deiner Attribute hinzu, je nach dem welche art von Handlung du vorhast. (der SL sagt dir mögliche Konsquenzen bevor du würfelst, und du kannst dich entscheiden ob es dir das risiko wert ist oder dich für einen Andernen weg entscheiden)
+Ein Ergebnis von 6 oder weniger ist ein Fehlschlag: es läuft schlecht und du bekommst die konsquenzen zu spüren. Ein Ergebnis von 7-9 bedeutet einen Teilerfolg: du schaffst es, aber es kostet dich etwas, erfordert einen Kompromiss, erlaubt einen gegenschlag, du wirst verletzt, es gibt seiteneffekte usw. Ein ergebnis von 10 oder mehr ist ein voller Erfolg, du scahffst es ohne Komplikationen. Und schliesslich ein ergebnis von 12 oder mehrist ein kritischer Erfolg, du schaffst es fast perfekt und es gibt einen zusätzlchen Gewinn oder Vorteil.
+Fertigkeiten: wenn du eine anwendbare Fertigkeit hast, gibt es keine völligen Fehlschläge für dich. Ein ergebnis von 6 oder weniger bedeutet einen teilerfolg mit einem grössen Kompromiss oder Komplikation als bei 7-9.
+
+DER SCHICKSALSWÜRFEL
+Manchmal wird der SL den Schicksalswürfel heranziehen, um zu ermitteln, wie die Situation sich entwickelt. Niedrige Zahlen bedeuten Unglück, hohe zahlen Glück (oder zumindest kein ELend). Der SChicksalwürfel kann geürfelt werden um herauszufinden, wie das Wetter wird, die Einstellung eines zufälligen NSC zu bestimmen oder um fest zu stellen, ob ein wanderndes Monster auftaucht. Der SL darf den Schickalswürfel auch benutzen, um den ausgang einer Handlung SCs zu bestimmen, die nur vom reinen glück abhängt.
+Diese Regeln sind dazu da, sie ganz euren Bedürfnissen auzupassne! Man kann sie im verlauf des Spiles erweitern und anpassen. Wir raten zu einem offen Geist und einer ledendigen Diskussion über die Möglichkeiten in eurer Runde.
+
+MAGIE
+
+-----
+EP und Stufen
+Man bekommt erfahrungspunkte für bestandende Gefahren (1 für etwa einfaches und bis zu 20 für echt schwere Herausforderungen) und den Abschluss eines Auftrags oder einer Suche (25 bis 100). Die stufe bestimmt wieviele Trefferwürfel, Fertigkeiten und Fähigkeiten man hat man hat, und wieviel schaden man veruracht.
+Mit 0 erfahrungspunkten ist man Stufe 1. Man bracht die aktuelle stufe * 100 EP um in die nächste stufe aufzusteigen. Mit 100 steigt man in die zweite Stufe auf, mit 300 (100+200) in die dritte usw.
+
+TREFFERWÜRFEL: 1+Kon in der ersten Stufe, +1 alle geraden stufen (2,4,6...)
+Fertigkeiten: 2 in der ersten Stufe, +1 alle durch 3 Teilbaren stufen (3,6,9)
+Fähigkeiten: 2 in der ersten Stufe, +1 alle durch 3 Teilbaren stufen (3,6,9)
+schaden: d6 in der ersten Stufe, +1w6 in den Stufen 5 und 10
+zusätzlich attributspunkte gibt es in den stufen 4,7 und 10. Kein Attribut darf über +3 erhöht werden.
