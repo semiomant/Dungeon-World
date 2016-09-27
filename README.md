@@ -2,14 +2,14 @@
 This repository contains my  ongoing translation of Dungeon World into German. if you are just looking for the english text of the game you are better off [here](https://github.com/Sagelt/Dungeon-World). This repro has been mainly abandoned due to reasons explained below in german ...
 
 # Mein neues Zeug
-Ich setze meine Arbeit [woanders](folgt) fort. =)
+Ich setze meine Arbeit [woanders](https://github.com/semiomant/EigenWelt) fort. =)
 
 # Erklärung
-Aufgrund von veränderungen in meinem Geschmack und nach Testspielen und dem verderblichen Einfluss von Jason Cordova auf die DW-szene habe ich mich entschlossen völlig anders vorzugehen. Auf den "Namenlosen Tagen 21" habe ich einen erfolgreiche Runde mit John Harpers "World of Dungeons" gespielt. Dabei konnte ich die Geschichte umsetzen, ohne das moves wie parley nur sehr bestimmte noir-interaktionen zulassen, ohne vergurkte playbooks wie paladin, und ohne kauzige einfälle wie "last breath" oder "perilous journey"  agieren.
+Aufgrund von veränderungen in meinem Geschmack und nach Testspielen und dem verderblichen Einfluss von Jason Cordova auf die DW-szene habe ich mich entschlossen völlig anders vorzugehen. Auf den "Namenlosen Tagen 21" habe ich eine erfolgreiche Runde mit John Harpers "World of Dungeons" gespielt. Dabei konnte ich die Geschichte umsetzen, ohne dass moves wie _parley_ nur sehr bestimmte noir-interaktionen zulassen, ohne vergurkte playbooks wie _paladin_, und ohne kauzige einfälle wie _"last breath"_ oder _"perilous journey"_.
 
-Ich kann einfach D. Vincents Bakers genial Abstraktion benutzen, einzelne gute Konventionen aus DW übernehmen und ein Spiel haben, das noch schneller starten kann. Und in das leichter gute Ideen aus dem "Solar System" & "Gumshoe" integrierbar sind.
+Ich kann einfach D. Vincents Bakers geniale Abstraktion benutzen, einzelne gute Konventionen aus DW übernehmen und ein Spiel haben, das noch schneller starten kann. Und in das leichter gute Ideen aus dem "Solar System" & "Gumshoe" integrierbar sind.
 
-__Das ist natürlich alles meine Meinung.__ Es gibt bestimmt eine Menge Leute die mit vanilla DW sehr gut klarkommen, aber das ist nicht der Punkt. Ich baumir die Sachen jetzt anders zusammen.
+__Das ist natürlich alles meine Meinung.__ Es gibt bestimmt eine Menge Leute, die mit vanilla DW sehr gut klar kommen, aber das ist nicht der Punkt. Ich bau mir die Sachen jetzt anders zusammen.
 
 ## weitere Gründe
 In ptbA-Derrivaten hat sich eine __Kultur des beatdowns__ breitgemacht, auch "play to fail" genannt. DIe Idee dabei ist, das es besseres rollenspiel ist, je öfter und tragischer ein Charakter scheitert. Ich stimme nicht zu.
